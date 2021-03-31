@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bookstore()
+comment0.text=Default\ constructor\ to\ initialise\ <code>inventory</code>
+comment1.params=b
+comment1.target=void\ addBook(Book)
+comment2.params=
+comment2.target=int\ numBooks()
+comment3.params=index
+comment3.target=Book\ getBook(int)
+comment3.text=\ \r\n\ Searches\ and\ return\ the\ <code>Book</code>\ at\ an\ index\r\n\ @param\ index\ the\ index\ of\ the\ wanted\ <code>Book</code>\r\n
+numComments=4

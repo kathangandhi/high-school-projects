@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=first\ second
+comment0.target=Command(java.lang.String,\ java.lang.String)
+comment1.params=str
+comment1.target=boolean\ isCommand(java.lang.String)
+comment1.text=Returns\ true\ if\ str\ is\ a\ valid\ command\ (exists\ in\ the\ array)
+comment2.params=
+comment2.target=java.lang.String\ getCommandsString()
+comment2.text=Gets\ all\ the\ command\ words\ in\ the\ array,\ returns\ as\ a\ String
+comment3.params=
+comment3.target=boolean\ isUnknown()
+comment3.text=\ \r\n\ An\ 'unknown'\ command\ will\ have\ a\ null\ commandWord\r\n\ A\ 'known'\ command\ will\ have\ a\ valid\ command\ as\ a\ commandWord\ \r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=java.lang.String\ getCommandWord()
+comment6.params=
+comment6.target=java.lang.String\ getSecondWord()
+numComments=7

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=desc\ it
+comment0.target=Room(java.lang.String,\ Item)
+comment1.params=direction\ neighbor
+comment1.target=void\ setExits(java.lang.String,\ Room)
+comment1.text=\r\n\ Initializes\ the\ exits\ for\ this\ room\ object\r\n\ \r\n\ The\ Room\ parameter\ should\ be\ passed\ in\ as\ null\ if\ there\ is\ no\ exit\ in\ that\ direction\r\n
+comment2.params=
+comment2.target=java.lang.String\ getExitString()
+comment2.text=Return\ a\ String\ showing\ all\ the\ possible\ exits\ a\ Room\ has
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment4.params=
+comment4.target=Item\ getItem()
+comment5.params=direction
+comment5.target=Room\ getExit(java.lang.String)
+comment6.params=obj
+comment6.target=boolean\ equals(java.lang.Object)
+numComments=7

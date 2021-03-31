@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "You_ve_Been_Targeted", "You've Been Targeted\You_ve_Been_Targeted\You_ve_Been_Targeted.csproj", "{0E909E16-B0E5-4340-89F2-94EE53C8E8C5}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "You_ve_Been_TargetedContent", "You've Been Targeted\You_ve_Been_TargetedContent\You_ve_Been_TargetedContent.contentproj", "{56F58FB7-B444-4A09-8D54-E571DDE63344}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E909E16-B0E5-4340-89F2-94EE53C8E8C5}.Debug|x86.ActiveCfg = Debug|x86
+		{0E909E16-B0E5-4340-89F2-94EE53C8E8C5}.Debug|x86.Build.0 = Debug|x86
+		{0E909E16-B0E5-4340-89F2-94EE53C8E8C5}.Release|x86.ActiveCfg = Release|x86
+		{0E909E16-B0E5-4340-89F2-94EE53C8E8C5}.Release|x86.Build.0 = Release|x86
+		{56F58FB7-B444-4A09-8D54-E571DDE63344}.Debug|x86.ActiveCfg = Debug|x86
+		{56F58FB7-B444-4A09-8D54-E571DDE63344}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

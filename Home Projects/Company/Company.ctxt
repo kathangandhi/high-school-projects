@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=companyName\ domain
+comment0.target=Company(java.lang.String,\ java.lang.String)
+comment0.text=\n\ Contructor\ that\ initialises\ the\ Company\ object\ with\ a\ name\ and\ website.<p>\n\ Contructor\ also\ initialises\ <code>employees</code>\ and\ <code>cashFlow</code><p>\n\ Constructor\ calls\ on\ <code>parseEmployee</code>\ method\ that\ parses\ information\ from\ .txt\ file\n\ @param\ companyName\ Provides\ name\ of\ company\n\ @param\ domain\ Provides\ name\ of\ wesite\n\ @param\ textFile\ Provides\ directory/name\ of\ textFile\n
+comment1.params=textFile
+comment1.target=void\ parseEmployee(java.lang.String)
+comment1.text=\n\ Parses\ input\ from\ provided\ textFile\ and\ populates\ <code>employees</code><p>\n\ Error\ message\ printed\ if\ FileNotFoundException\ occurs\n\ @param\ textFile\ Provides\ directory/name\ of\ textFile\ \n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

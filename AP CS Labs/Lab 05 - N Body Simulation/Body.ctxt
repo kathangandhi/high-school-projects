@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=xPos\ yPos\ xV\ yV\ m\ img
+comment0.target=Body(double,\ double,\ double,\ double,\ double,\ java.lang.String)
+comment0.text=\r\n\ The\ constructor\ to\ initialise\ all\ the\ variables\ of\ the\ Body\r\n
+comment1.params=other
+comment1.target=double\ getDistance(Body)
+comment1.text=\ \r\n\ finds\ distance\ between\ the\ accessing\ body\ and\ other\ body\r\n\ @param\ other\ the\ other\ body\ object\r\n\ @return\ distance\ between\ 2\ bodies\r\n
+comment2.params=other
+comment2.target=double\ getPairwiseForce(Body)
+comment2.text=\ \r\n\ finds\ pairwise\ force\ between\ the\ accessing\ body\ and\ other\ body\r\n\ @param\ other\ the\ other\ body\ object\r\n\ @return\ the\ gravity\ between\ two\ bodies\r\n
+comment3.params=other
+comment3.target=double\ getPairwiseForceX(Body)
+comment3.text=\ \r\n\ finds\ pairwise\ force\ x\ component\ between\ the\ accessing\ body\ and\ other\ body\r\n\ @param\ other\ the\ other\ body\ object\r\n\ @return\ the\ gravity\ in\ the\ x\ direction\ between\ two\ bodies\r\n
+comment4.params=other
+comment4.target=double\ getPairwiseForceY(Body)
+comment4.text=\ \r\n\ finds\ pairwise\ force\ between\ the\ accessing\ body\ and\ other\ body\r\n\ @param\ other\ the\ other\ body\ object\r\n\ @return\ the\ gravity\ in\ the\ y\ direction\ between\ two\ bodies\r\n
+comment5.params=bodies
+comment5.target=void\ setNetForce(Body[])
+comment5.text=\ \r\n\ calculates/sets\ the\ net\ force\ exerted\ on\ this\ body\ by\ all\ the\ (input)\ bodies\r\n\ @param\ bodies\ the\ array\ of\ Body\ objects\r\n
+comment6.params=dt
+comment6.target=void\ update(double)
+comment6.text=\ \r\n\ updates\ this\ body's\ accel,\ vel,\ and\ position,\ given\ the\ time\ step\ \r\n\ @param\ dt\ the\ change\ in\ time\r\n
+comment7.params=
+comment7.target=void\ draw()
+comment7.text=\ \r\n\ Draws\ the\ body\ using\ the\ StdDraw\ library\ file's\ drawing\ method\ \r\n
+numComments=8

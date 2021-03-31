@@ -1,0 +1,19 @@
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\10 pts\You've Been Targeted\You've Been Targeted\You_ve_Been_Targeted\bin\x86\Debug\Content\Tank.xnb
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\10 pts\You've Been Targeted\You've Been Targeted\You_ve_Been_Targeted\bin\x86\Debug\Content\White Square.xnb
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\10 pts\You've Been Targeted\You've Been Targeted\You_ve_Been_Targeted\bin\x86\Debug\You_ve_Been_Targeted.exe
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\10 pts\You've Been Targeted\You've Been Targeted\You_ve_Been_Targeted\bin\x86\Debug\You_ve_Been_Targeted.pdb
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\10 pts\You've Been Targeted\You've Been Targeted\You_ve_Been_Targeted\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\10 pts\You've Been Targeted\You've Been Targeted\You_ve_Been_Targeted\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\10 pts\You've Been Targeted\You've Been Targeted\You_ve_Been_Targeted\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\10 pts\You've Been Targeted\You've Been Targeted\You_ve_Been_Targeted\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\10 pts\You've Been Targeted\You've Been Targeted\You_ve_Been_Targeted\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\10 pts\You've Been Targeted\You've Been Targeted\You_ve_Been_Targeted\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\10 pts\You've Been Targeted\You've Been Targeted\You_ve_Been_Targeted\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\10 pts\You've Been Targeted\You've Been Targeted\You_ve_Been_Targeted\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\10 pts\You've Been Targeted\You've Been Targeted\You_ve_Been_Targeted\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\10 pts\You've Been Targeted\You've Been Targeted\You_ve_Been_Targeted\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\10 pts\You've Been Targeted\You've Been Targeted\You_ve_Been_Targeted\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\10 pts\You've Been Targeted\You've Been Targeted\You_ve_Been_Targeted\obj\x86\Debug\You_ve_Been_Targeted.exe
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\10 pts\You've Been Targeted\You've Been Targeted\You_ve_Been_Targeted\obj\x86\Debug\You_ve_Been_Targeted.pdb
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\10 pts\You've Been Targeted\You've Been Targeted\You_ve_Been_Targeted\obj\x86\Debug\You_ve_Been_Targeted.csprojResolveAssemblyReference.cache
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\10 pts\You've Been Targeted\You've Been Targeted\You_ve_Been_Targeted\bin\x86\Debug\Content\SpriteFont1.xnb

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=size
+comment1.target=Learner(int)
+comment2.params=obj
+comment2.target=int\ compareTo(java.lang.Object)
+comment3.params=
+comment3.target=int\ getSize()
+comment4.params=n
+comment4.target=int\ factorial(int)
+comment5.params=seconds
+comment5.target=java.lang.String\ countdown(int)
+numComments=6

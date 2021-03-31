@@ -1,0 +1,13 @@
+You work as a manager in a restaurant. So, you get access to food in the restaurant. 
+But, you can only choose from given food options unless it's a dietary restriction. 
+(Un)fortunately, you don't have any. 
+
+Remember to watch your calorie requirements and also your money. You could lose 
+if you aren't within the required ranges of your diet and budget. Everything you 
+eat will have calories and how much it costs you. You will have three meals each 
+day - breakfast, lunch, dinner.
+
+You have $100 and will start with 2500 calories (which is perfect). 
+Spend wisely!
+
+Survive, if you can. Always be observant of your environment.

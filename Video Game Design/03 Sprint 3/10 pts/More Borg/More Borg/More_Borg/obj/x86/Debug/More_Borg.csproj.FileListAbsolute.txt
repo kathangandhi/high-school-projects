@@ -1,0 +1,24 @@
+c:\users\pgandhi\documents\visual studio 2015\Projects\More Borg\More Borg\More_Borg\obj\x86\Debug\More_Borg.csprojResolveAssemblyReference.cache
+c:\users\pgandhi\documents\visual studio 2015\Projects\More Borg\More Borg\More_Borg\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\pgandhi\documents\visual studio 2015\Projects\More Borg\More Borg\More_Borg\bin\x86\Debug\Content\ball.xnb
+c:\users\pgandhi\documents\visual studio 2015\Projects\More Borg\More Borg\More_Borg\bin\x86\Debug\Content\rocket.xnb
+c:\users\pgandhi\documents\visual studio 2015\Projects\More Borg\More Borg\More_Borg\bin\x86\Debug\Content\tube horizontal.xnb
+c:\users\pgandhi\documents\visual studio 2015\Projects\More Borg\More Borg\More_Borg\bin\x86\Debug\Content\tube vertical.xnb
+c:\users\pgandhi\documents\visual studio 2015\Projects\More Borg\More Borg\More_Borg\bin\x86\Debug\Content\tube.xnb
+c:\users\pgandhi\documents\visual studio 2015\Projects\More Borg\More Borg\More_Borg\bin\x86\Debug\Content\white.xnb
+c:\users\pgandhi\documents\visual studio 2015\Projects\More Borg\More Borg\More_Borg\bin\x86\Debug\Content\SpriteFont1.xnb
+c:\users\pgandhi\documents\visual studio 2015\Projects\More Borg\More Borg\More_Borg\bin\x86\Debug\More_Borg.exe
+c:\users\pgandhi\documents\visual studio 2015\Projects\More Borg\More Borg\More_Borg\bin\x86\Debug\More_Borg.pdb
+c:\users\pgandhi\documents\visual studio 2015\Projects\More Borg\More Borg\More_Borg\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\pgandhi\documents\visual studio 2015\Projects\More Borg\More Borg\More_Borg\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\pgandhi\documents\visual studio 2015\Projects\More Borg\More Borg\More_Borg\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\pgandhi\documents\visual studio 2015\Projects\More Borg\More Borg\More_Borg\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\pgandhi\documents\visual studio 2015\Projects\More Borg\More Borg\More_Borg\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\pgandhi\documents\visual studio 2015\Projects\More Borg\More Borg\More_Borg\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\pgandhi\documents\visual studio 2015\Projects\More Borg\More Borg\More_Borg\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\pgandhi\documents\visual studio 2015\Projects\More Borg\More Borg\More_Borg\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\pgandhi\documents\visual studio 2015\Projects\More Borg\More Borg\More_Borg\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\pgandhi\documents\visual studio 2015\Projects\More Borg\More Borg\More_Borg\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\pgandhi\documents\visual studio 2015\Projects\More Borg\More Borg\More_Borg\obj\x86\Debug\More_Borg.exe
+c:\users\pgandhi\documents\visual studio 2015\Projects\More Borg\More Borg\More_Borg\obj\x86\Debug\More_Borg.pdb
+C:\Users\pgandhi\Documents\Visual Studio 2015\Projects\More Borg\More Borg\More_Borg\bin\x86\Debug\Content\PixelImage.xnb

@@ -1,0 +1,13 @@
+Content\baby.xnb
+Content\bearded man.xnb
+Content\bishop.xnb
+Content\clown.xnb
+Content\cop.xnb
+Content\elf.xnb
+Content\girl.xnb
+Content\glasses.xnb
+Content\nurse.xnb
+Content\snow boy.xnb
+Content\tennis guy.xnb
+Content\woman.xnb
+Content\white.xnb

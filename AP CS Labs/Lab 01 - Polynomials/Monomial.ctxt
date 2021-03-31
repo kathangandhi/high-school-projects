@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=coefficient\ exponent
+comment0.target=Monomial(double,\ int)
+comment0.text=\n\ Constructor\ to\ initialise\ coefficient\ and\ exponent\n\ @param\ coefficient\ the\ coefficient\ of\ the\ term\n\ @param\ exponent\ the\ exponent\ of\ the\ variable\ term\n
+numComments=1

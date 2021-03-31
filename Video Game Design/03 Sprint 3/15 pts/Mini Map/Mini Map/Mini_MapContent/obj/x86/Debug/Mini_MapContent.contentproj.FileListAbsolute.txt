@@ -1,0 +1,2 @@
+c:\users\pgandhi\documents\visual studio 2015\Projects\Mini Map\Mini Map\Mini_MapContent\obj\x86\Debug\Mini_MapContent.contentprojResolveAssemblyReference.cache
+C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_MapContent\obj\x86\Debug\Mini_MapContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Polynomial()
+comment0.text=\n\ Default\ constructor\ that\ sets\ all\ Monomials\ to\ null\n
+comment1.params=coeff\ exp
+comment1.target=void\ setTerm(double,\ int)
+comment1.text=\n\ Determines\ the\ Monomial\ to\ set\ based\ on\ exponent\n\ @param\ coeff\ the\ coefficient\ of\ the\ term\n\ @param\ exp\ the\ exponent\ that\ determines\ the\ Monomial\ initialised\ -\ degree\ 0,1,2\n
+comment2.params=x
+comment2.target=double\ evaluate(double)
+comment2.text=\n\ Evaluates\ the\ expression\ based\ on\ the\ value\ of\ x\n\ @param\ x\ the\ x\ that\ is\ substituted\ in\ the\ expression\n\ @return\ evaluated\ value\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ Prints\ out\ the\ expression\n\ @return\ the\ String\ that\ represents\ the\ expression\n
+numComments=4

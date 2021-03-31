@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=other
+comment0.target=double\ getDistance(Point)
+comment0.text=get\ the\ Euclidean\ distance\ between\ two\ points
+comment1.params=
+comment1.target=java.lang.String\ toString()
+numComments=2

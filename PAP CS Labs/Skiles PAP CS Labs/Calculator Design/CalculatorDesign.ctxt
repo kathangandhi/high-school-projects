@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=double\ menu()
+comment2.params=x
+comment2.target=void\ showResults(double)
+comment3.params=x\ y
+comment3.target=double\ add(double,\ double)
+comment4.params=x\ y
+comment4.target=double\ subtract(double,\ double)
+comment5.params=x\ y
+comment5.target=double\ multiply(double,\ double)
+comment6.params=x\ y
+comment6.target=double\ divide(double,\ double)
+numComments=7

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Follow_Me", "Follow Me\Follow_Me\Follow_Me.csproj", "{255342EF-B336-4326-93AC-9A9B61780FE3}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Follow_MeContent", "Follow Me\Follow_MeContent\Follow_MeContent.contentproj", "{3E06CA86-1DA4-4C33-9BB5-EB03BEB1BC9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{255342EF-B336-4326-93AC-9A9B61780FE3}.Debug|x86.ActiveCfg = Debug|x86
+		{255342EF-B336-4326-93AC-9A9B61780FE3}.Debug|x86.Build.0 = Debug|x86
+		{255342EF-B336-4326-93AC-9A9B61780FE3}.Release|x86.ActiveCfg = Release|x86
+		{255342EF-B336-4326-93AC-9A9B61780FE3}.Release|x86.Build.0 = Release|x86
+		{3E06CA86-1DA4-4C33-9BB5-EB03BEB1BC9C}.Debug|x86.ActiveCfg = Debug|x86
+		{3E06CA86-1DA4-4C33-9BB5-EB03BEB1BC9C}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

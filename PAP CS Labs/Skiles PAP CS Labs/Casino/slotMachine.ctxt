@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=slotMachine()
+comment1.params=pay
+comment1.target=double\ play(double)
+comment2.params=A\ B\ C\ D
+comment2.target=double\ checkWin(int,\ int,\ int,\ int)
+numComments=3

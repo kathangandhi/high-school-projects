@@ -1,0 +1,17 @@
+C:\Users\229932\Desktop\Video Game Programming Labs\Pet Land\Pet Land\Pet_Land\bin\x86\Debug\Content\doggo.xnb
+C:\Users\229932\Desktop\Video Game Programming Labs\Pet Land\Pet Land\Pet_Land\bin\x86\Debug\Pet_Land.exe
+C:\Users\229932\Desktop\Video Game Programming Labs\Pet Land\Pet Land\Pet_Land\bin\x86\Debug\Pet_Land.pdb
+C:\Users\229932\Desktop\Video Game Programming Labs\Pet Land\Pet Land\Pet_Land\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\229932\Desktop\Video Game Programming Labs\Pet Land\Pet Land\Pet_Land\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\229932\Desktop\Video Game Programming Labs\Pet Land\Pet Land\Pet_Land\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\229932\Desktop\Video Game Programming Labs\Pet Land\Pet Land\Pet_Land\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\229932\Desktop\Video Game Programming Labs\Pet Land\Pet Land\Pet_Land\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\229932\Desktop\Video Game Programming Labs\Pet Land\Pet Land\Pet_Land\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\229932\Desktop\Video Game Programming Labs\Pet Land\Pet Land\Pet_Land\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\229932\Desktop\Video Game Programming Labs\Pet Land\Pet Land\Pet_Land\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\229932\Desktop\Video Game Programming Labs\Pet Land\Pet Land\Pet_Land\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\229932\Desktop\Video Game Programming Labs\Pet Land\Pet Land\Pet_Land\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\229932\Desktop\Video Game Programming Labs\Pet Land\Pet Land\Pet_Land\obj\x86\Debug\Pet_Land.csprojResolveAssemblyReference.cache
+C:\Users\229932\Desktop\Video Game Programming Labs\Pet Land\Pet Land\Pet_Land\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\229932\Desktop\Video Game Programming Labs\Pet Land\Pet Land\Pet_Land\obj\x86\Debug\Pet_Land.exe
+C:\Users\229932\Desktop\Video Game Programming Labs\Pet Land\Pet Land\Pet_Land\obj\x86\Debug\Pet_Land.pdb

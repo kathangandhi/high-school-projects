@@ -1,0 +1,2 @@
+C:\Users\katha\Desktop\Video Game Design Labs\ScribblePlatformer2\ScribblePlatformer2\ScribblePlatformer2Content\obj\x86\Debug\ScribblePlatformer2Content.contentprojResolveAssemblyReference.cache
+C:\Users\229932\Desktop\Video Game Programming Labs\06 Sprint 8\ScribblePlatformer2\ScribblePlatformer2\ScribblePlatformer2Content\obj\x86\Debug\ScribblePlatformer2Content.contentprojResolveAssemblyReference.cache

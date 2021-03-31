@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=g\ x1\ y1\ x2\ y2\ x3\ y3
+comment0.target=void\ Mountain(java.awt.Graphics,\ int,\ int,\ int,\ int,\ int,\ int)
+comment1.params=g\ x1\ y1\ hr\ vr\ va\ ha
+comment1.target=void\ Snowcap(java.awt.Graphics,\ int,\ int,\ int,\ int,\ int,\ int)
+comment2.params=g\ x1\ y1\ x2\ y2\ x3\ y3\ x4\ y4
+comment2.target=void\ River(java.awt.Graphics,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+numComments=3

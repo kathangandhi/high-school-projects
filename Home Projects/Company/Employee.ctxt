@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=stats\ workHours\ salary\ role
+comment0.target=Employee(Information,\ int,\ double,\ java.lang.String)
+comment1.params=bonus
+comment1.target=void\ addBonus(double)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

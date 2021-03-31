@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=currentRoom
+comment0.target=Player(Room)
+comment1.params=newRoom
+comment1.target=void\ setRoom(Room)
+comment2.params=
+comment2.target=Room\ getRoom()
+comment3.params=tool
+comment3.target=void\ addItem(Item)
+comment4.params=tool
+comment4.target=boolean\ inventoryHas(Item)
+numComments=5

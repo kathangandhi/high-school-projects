@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=rows\ cols
+comment0.target=MyStrings(int,\ int)
+comment0.text=\ \n\ constructor,\ instantiates\ the\ array\ \n\ @param\ rows\ the\ rows\ in\ the\ array\n\ @param\ cold\ the\ columns\ in\ the\ array\n
+comment1.params=s\ r\ c
+comment1.target=void\ addMyString(MyString,\ int,\ int)
+comment1.text=\ \n\ adds\ a\ MyString\ object\ to\ the\ array\ at\ [r][c]\n\ @param\ s\ the\ String\ to\ add\n
+comment2.params=r\ c
+comment2.target=MyString\ getMyStringAt(int,\ int)
+comment2.text=\ \n\ returns\ a\ reference\ to\ the\ MyString\ object\ at\ [r][c]\ in\ words\n\ @param\ r\ the\ row\ no.\ of\ desired\ element\n\ @param\ c\ the\ column\ no.\ of\ desired\ element\n\ @return\ the\ String\ at\ [r][c]\n
+comment3.params=newValue\ r\ c
+comment3.target=void\ setMyStringAt(java.lang.String,\ int,\ int)
+comment3.text=\ \n\ set\ the\ MyString's\ String\ value\ to\ the\ value\ of\ the\ parameter\n\ @param\ newValue\ the\ String\ to\ replace\ with\\\n\ @param\ r\ the\ row\ of\ the\ swapped\ element\n\ @param\ c\ the\ column\ of\ the\ swapped\ element\n
+comment4.params=
+comment4.target=int\ getNumRows()
+comment4.text=returns\ the\ number\ of\ rows\ in\ theStrings
+comment5.params=
+comment5.target=int\ getNumCols()
+comment5.text=returns\ the\ number\ of\ columns\ in\ theStrings
+comment6.params=
+comment6.target=void\ print()
+comment6.text=prints\ element\ in\ theStrings\ in\ row-major\ order
+numComments=7

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=grid
+comment0.target=CharGrid(char[][])
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=ch
+comment2.target=int\ charArea(char)
+comment3.params=
+comment3.target=int\ countPlus()
+comment4.params=r\ c\ ch
+comment4.target=int\ checkArms(int,\ int,\ char)
+numComments=5

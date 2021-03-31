@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stepper", "Stepper\Stepper\Stepper.csproj", "{E0400A43-65FD-4839-8EC1-1AA8FAEA96D2}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "StepperContent", "Stepper\StepperContent\StepperContent.contentproj", "{22175FB2-220A-42BB-9924-5D4643A55487}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0400A43-65FD-4839-8EC1-1AA8FAEA96D2}.Debug|x86.ActiveCfg = Debug|x86
+		{E0400A43-65FD-4839-8EC1-1AA8FAEA96D2}.Debug|x86.Build.0 = Debug|x86
+		{E0400A43-65FD-4839-8EC1-1AA8FAEA96D2}.Release|x86.ActiveCfg = Release|x86
+		{E0400A43-65FD-4839-8EC1-1AA8FAEA96D2}.Release|x86.Build.0 = Release|x86
+		{22175FB2-220A-42BB-9924-5D4643A55487}.Debug|x86.ActiveCfg = Debug|x86
+		{22175FB2-220A-42BB-9924-5D4643A55487}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

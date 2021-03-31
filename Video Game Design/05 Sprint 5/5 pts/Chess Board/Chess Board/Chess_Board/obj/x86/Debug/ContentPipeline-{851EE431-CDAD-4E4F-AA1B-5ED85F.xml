@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>BBishop.png</Source>
+      <Name>BBishop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\04 Sprint 5\5 pts\Chess Board\Chess Board\Chess_Board\bin\x86\Debug\Content\BBishop.xnb</Output>
+      <Time>2019-11-18T11:07:28.1024255-06:00</Time>
+    </Item>
+    <Item>
+      <Source>BKing.png</Source>
+      <Name>BKing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\04 Sprint 5\5 pts\Chess Board\Chess Board\Chess_Board\bin\x86\Debug\Content\BKing.xnb</Output>
+      <Time>2019-11-18T11:07:28.1110233-06:00</Time>
+    </Item>
+    <Item>
+      <Source>BKnight.png</Source>
+      <Name>BKnight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\04 Sprint 5\5 pts\Chess Board\Chess Board\Chess_Board\bin\x86\Debug\Content\BKnight.xnb</Output>
+      <Time>2019-11-18T11:07:28.1110233-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Board.png</Source>
+      <Name>Board</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\04 Sprint 5\5 pts\Chess Board\Chess Board\Chess_Board\bin\x86\Debug\Content\Board.xnb</Output>
+      <Time>2019-11-18T11:07:28.1207183-06:00</Time>
+    </Item>
+    <Item>
+      <Source>BPawn.png</Source>
+      <Name>BPawn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\04 Sprint 5\5 pts\Chess Board\Chess Board\Chess_Board\bin\x86\Debug\Content\BPawn.xnb</Output>
+      <Time>2019-11-18T11:07:28.1207183-06:00</Time>
+    </Item>
+    <Item>
+      <Source>BQueen.png</Source>
+      <Name>BQueen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\04 Sprint 5\5 pts\Chess Board\Chess Board\Chess_Board\bin\x86\Debug\Content\BQueen.xnb</Output>
+      <Time>2019-11-18T11:07:28.1207183-06:00</Time>
+    </Item>
+    <Item>
+      <Source>BRook.png</Source>
+      <Name>BRook</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\04 Sprint 5\5 pts\Chess Board\Chess Board\Chess_Board\bin\x86\Debug\Content\BRook.xnb</Output>
+      <Time>2019-11-18T11:07:28.130969-06:00</Time>
+    </Item>
+    <Item>
+      <Source>WBishop.png</Source>
+      <Name>WBishop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\04 Sprint 5\5 pts\Chess Board\Chess Board\Chess_Board\bin\x86\Debug\Content\WBishop.xnb</Output>
+      <Time>2019-11-18T11:07:28.130969-06:00</Time>
+    </Item>
+    <Item>
+      <Source>WRook.png</Source>
+      <Name>WRook</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\04 Sprint 5\5 pts\Chess Board\Chess Board\Chess_Board\bin\x86\Debug\Content\WRook.xnb</Output>
+      <Time>2019-11-18T11:07:28.1410658-06:00</Time>
+    </Item>
+    <Item>
+      <Source>WKing.png</Source>
+      <Name>WKing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\04 Sprint 5\5 pts\Chess Board\Chess Board\Chess_Board\bin\x86\Debug\Content\WKing.xnb</Output>
+      <Time>2019-11-18T11:07:28.1410658-06:00</Time>
+    </Item>
+    <Item>
+      <Source>WKnight.png</Source>
+      <Name>WKnight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\04 Sprint 5\5 pts\Chess Board\Chess Board\Chess_Board\bin\x86\Debug\Content\WKnight.xnb</Output>
+      <Time>2019-11-18T11:07:28.1410658-06:00</Time>
+    </Item>
+    <Item>
+      <Source>WPawn.png</Source>
+      <Name>WPawn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\04 Sprint 5\5 pts\Chess Board\Chess Board\Chess_Board\bin\x86\Debug\Content\WPawn.xnb</Output>
+      <Time>2019-11-18T11:07:28.15108-06:00</Time>
+    </Item>
+    <Item>
+      <Source>WQueen.png</Source>
+      <Name>WQueen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\04 Sprint 5\5 pts\Chess Board\Chess Board\Chess_Board\bin\x86\Debug\Content\WQueen.xnb</Output>
+      <Time>2019-11-18T11:07:28.15108-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{851EE431-CDAD-4E4F-AA1B-5ED85F47ECF0}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\229932\Desktop\Video Game Programming Labs\04 Sprint 5\5 pts\Chess Board\Chess Board\Chess_BoardContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\229932\Desktop\Video Game Programming Labs\04 Sprint 5\5 pts\Chess Board\Chess Board\Chess_Board\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\229932\Desktop\Video Game Programming Labs\04 Sprint 5\5 pts\Chess Board\Chess Board\Chess_Board\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\229932\Desktop\Video Game Programming Labs\04 Sprint 5\5 pts\Chess Board\Chess Board\Chess_Board\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-04-04T09:45:30.5725129-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

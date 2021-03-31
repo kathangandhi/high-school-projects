@@ -1,0 +1,18 @@
+C:\Users\pageg\Desktop\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\bin\x86\Debug\Content\launch.xnb
+C:\Users\pageg\Desktop\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\bin\x86\Debug\Content\right.xnb
+C:\Users\pageg\Desktop\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\bin\x86\Debug\Content\wrong.xnb
+C:\Users\pageg\Desktop\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\bin\x86\Debug\Sound Effect Demo.exe
+C:\Users\pageg\Desktop\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\bin\x86\Debug\Sound Effect Demo.pdb
+C:\Users\pageg\Desktop\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\obj\x86\Debug\Sound Effect Demo.csprojResolveAssemblyReference.cache
+C:\Users\pageg\Desktop\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\pageg\Desktop\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\obj\x86\Debug\Sound Effect Demo.exe
+C:\Users\pageg\Desktop\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\obj\x86\Debug\Sound Effect Demo.pdb
+C:\Users\229932\Desktop\Video Game Programming Labs\00 Tutorials\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\bin\x86\Debug\Content\launch.xnb
+C:\Users\229932\Desktop\Video Game Programming Labs\00 Tutorials\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\bin\x86\Debug\Content\right.xnb
+C:\Users\229932\Desktop\Video Game Programming Labs\00 Tutorials\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\bin\x86\Debug\Content\wrong.xnb
+C:\Users\229932\Desktop\Video Game Programming Labs\00 Tutorials\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\bin\x86\Debug\Sound Effect Demo.exe
+C:\Users\229932\Desktop\Video Game Programming Labs\00 Tutorials\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\bin\x86\Debug\Sound Effect Demo.pdb
+C:\Users\229932\Desktop\Video Game Programming Labs\00 Tutorials\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\obj\x86\Debug\Sound Effect Demo.csprojResolveAssemblyReference.cache
+C:\Users\229932\Desktop\Video Game Programming Labs\00 Tutorials\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\229932\Desktop\Video Game Programming Labs\00 Tutorials\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\obj\x86\Debug\Sound Effect Demo.exe
+C:\Users\229932\Desktop\Video Game Programming Labs\00 Tutorials\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\obj\x86\Debug\Sound Effect Demo.pdb

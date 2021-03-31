@@ -1,0 +1,2 @@
+C:\Users\pageg\Desktop\Robot\Robot\RobotContent\obj\x86\Debug\RobotContent.contentprojResolveAssemblyReference.cache
+C:\Users\229932\Desktop\Video Game Programming Labs\00 Tutorials\Robot\Robot\RobotContent\obj\x86\Debug\RobotContent.contentprojResolveAssemblyReference.cache

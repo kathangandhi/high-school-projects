@@ -1,0 +1,25 @@
+C:\Users\katha\Desktop\Video Game Design Labs\Space Invaders 2\Space Invaders 2\Space_Invaders_2\bin\x86\Debug\Content\Space Invaders 1st.xnb
+C:\Users\katha\Desktop\Video Game Design Labs\Space Invaders 2\Space Invaders 2\Space_Invaders_2\bin\x86\Debug\Content\Space Invaders 2nd.xnb
+C:\Users\katha\Desktop\Video Game Design Labs\Space Invaders 2\Space Invaders 2\Space_Invaders_2\bin\x86\Debug\Content\Space Invaders 3rd.xnb
+C:\Users\katha\Desktop\Video Game Design Labs\Space Invaders 2\Space Invaders 2\Space_Invaders_2\bin\x86\Debug\Content\Space Invaders 4th.xnb
+C:\Users\katha\Desktop\Video Game Design Labs\Space Invaders 2\Space Invaders 2\Space_Invaders_2\bin\x86\Debug\Content\Space Invaders 5th.xnb
+C:\Users\katha\Desktop\Video Game Design Labs\Space Invaders 2\Space Invaders 2\Space_Invaders_2\bin\x86\Debug\Content\Space Invaders 6th.xnb
+C:\Users\katha\Desktop\Video Game Design Labs\Space Invaders 2\Space Invaders 2\Space_Invaders_2\bin\x86\Debug\Content\Space Invaders 7th.xnb
+C:\Users\katha\Desktop\Video Game Design Labs\Space Invaders 2\Space Invaders 2\Space_Invaders_2\bin\x86\Debug\Content\Space Invaders 8th.xnb
+C:\Users\katha\Desktop\Video Game Design Labs\Space Invaders 2\Space Invaders 2\Space_Invaders_2\bin\x86\Debug\Space_Invaders_2.exe
+C:\Users\katha\Desktop\Video Game Design Labs\Space Invaders 2\Space Invaders 2\Space_Invaders_2\bin\x86\Debug\Space_Invaders_2.pdb
+C:\Users\katha\Desktop\Video Game Design Labs\Space Invaders 2\Space Invaders 2\Space_Invaders_2\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\katha\Desktop\Video Game Design Labs\Space Invaders 2\Space Invaders 2\Space_Invaders_2\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\katha\Desktop\Video Game Design Labs\Space Invaders 2\Space Invaders 2\Space_Invaders_2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\katha\Desktop\Video Game Design Labs\Space Invaders 2\Space Invaders 2\Space_Invaders_2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\katha\Desktop\Video Game Design Labs\Space Invaders 2\Space Invaders 2\Space_Invaders_2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\katha\Desktop\Video Game Design Labs\Space Invaders 2\Space Invaders 2\Space_Invaders_2\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\katha\Desktop\Video Game Design Labs\Space Invaders 2\Space Invaders 2\Space_Invaders_2\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\katha\Desktop\Video Game Design Labs\Space Invaders 2\Space Invaders 2\Space_Invaders_2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\katha\Desktop\Video Game Design Labs\Space Invaders 2\Space Invaders 2\Space_Invaders_2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\katha\Desktop\Video Game Design Labs\Space Invaders 2\Space Invaders 2\Space_Invaders_2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\katha\Desktop\Video Game Design Labs\Space Invaders 2\Space Invaders 2\Space_Invaders_2\obj\x86\Debug\Space_Invaders_2.csprojResolveAssemblyReference.cache
+C:\Users\katha\Desktop\Video Game Design Labs\Space Invaders 2\Space Invaders 2\Space_Invaders_2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\katha\Desktop\Video Game Design Labs\Space Invaders 2\Space Invaders 2\Space_Invaders_2\obj\x86\Debug\Space_Invaders_2.exe
+C:\Users\katha\Desktop\Video Game Design Labs\Space Invaders 2\Space Invaders 2\Space_Invaders_2\obj\x86\Debug\Space_Invaders_2.pdb
+C:\Users\katha\Desktop\Video Game Design Labs\Space Invaders 2\Space Invaders 2\Space_Invaders_2\bin\x86\Debug\Content\SI Homeworld.xnb

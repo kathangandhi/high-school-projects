@@ -1,0 +1,10 @@
+The stats of your player will be at the top of screen. There will be 
+a calorie range indicator, your current calorie level, and your 
+current money.
+
+Below it will be displayed the menu which you can choose from. Please
+use the number next to the menu item to indicate your choice.
+
+The calories of that item will be added to your range, but calories
+will also be lost due to working after your meal. If your calorie 
+level crosses the range, you lose. If you go broke, you lose too. 

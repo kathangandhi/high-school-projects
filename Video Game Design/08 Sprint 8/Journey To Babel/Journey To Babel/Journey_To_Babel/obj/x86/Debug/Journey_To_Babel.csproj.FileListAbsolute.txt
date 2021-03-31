@@ -1,0 +1,18 @@
+C:\Users\katha\Downloads\Journey To Babel\Journey To Babel\Journey To Babel\Journey_To_Babel\bin\x86\Debug\Content\Output Messages.txt
+C:\Users\katha\Downloads\Journey To Babel\Journey To Babel\Journey To Babel\Journey_To_Babel\bin\x86\Debug\Journey_To_Babel.exe
+C:\Users\katha\Downloads\Journey To Babel\Journey To Babel\Journey To Babel\Journey_To_Babel\bin\x86\Debug\Journey_To_Babel.pdb
+C:\Users\katha\Downloads\Journey To Babel\Journey To Babel\Journey To Babel\Journey_To_Babel\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\katha\Downloads\Journey To Babel\Journey To Babel\Journey To Babel\Journey_To_Babel\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\katha\Downloads\Journey To Babel\Journey To Babel\Journey To Babel\Journey_To_Babel\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\katha\Downloads\Journey To Babel\Journey To Babel\Journey To Babel\Journey_To_Babel\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\katha\Downloads\Journey To Babel\Journey To Babel\Journey To Babel\Journey_To_Babel\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\katha\Downloads\Journey To Babel\Journey To Babel\Journey To Babel\Journey_To_Babel\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\katha\Downloads\Journey To Babel\Journey To Babel\Journey To Babel\Journey_To_Babel\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\katha\Downloads\Journey To Babel\Journey To Babel\Journey To Babel\Journey_To_Babel\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\katha\Downloads\Journey To Babel\Journey To Babel\Journey To Babel\Journey_To_Babel\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\katha\Downloads\Journey To Babel\Journey To Babel\Journey To Babel\Journey_To_Babel\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\katha\Downloads\Journey To Babel\Journey To Babel\Journey To Babel\Journey_To_Babel\obj\x86\Debug\Journey_To_Babel.csprojResolveAssemblyReference.cache
+C:\Users\katha\Downloads\Journey To Babel\Journey To Babel\Journey To Babel\Journey_To_Babel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\katha\Downloads\Journey To Babel\Journey To Babel\Journey To Babel\Journey_To_Babel\obj\x86\Debug\Journey_To_Babel.exe
+C:\Users\katha\Downloads\Journey To Babel\Journey To Babel\Journey To Babel\Journey_To_Babel\obj\x86\Debug\Journey_To_Babel.pdb
+C:\Users\katha\Downloads\Journey To Babel\Journey To Babel\Journey To Babel\Journey_To_Babel\bin\x86\Debug\Content\SpriteFont1.xnb

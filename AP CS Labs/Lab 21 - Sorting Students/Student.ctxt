@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=name\ studentID
+comment0.target=Student(java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=int\ getStudentID()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=obj
+comment4.target=boolean\ equals(java.lang.Object)
+comment5.params=s
+comment5.target=int\ compareTo(Student)
+comment6.params=students
+comment6.target=void\ sort(java.util.List)
+comment7.params=i\ j\ students
+comment7.target=void\ swap(int,\ int,\ java.util.List)
+comment7.text=\r\n\ Swaps\ values\ at\ index\ i\ and\ j\r\n\ @param\ i\ First\ index\r\n\ @param\ j\ Second\ index\r\n
+numComments=8

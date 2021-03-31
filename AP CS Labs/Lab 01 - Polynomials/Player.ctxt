@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Player()
+comment0.text=\n\ Player\ default\ constructor\n
+comment1.params=name\ number
+comment1.target=Player(java.lang.String,\ int)
+comment1.text=\n\ Player\ constructor\ that\ initialises\ name\ and\ number\n\ @param\ name\ Player\ name\n\ @param\ number\ Player\ number\n
+comment2.params=
+comment2.target=java.lang.String\ playerInfo()
+comment2.text=\n\ Returns\ name\ and\ number\ of\ Player\n\ @return\ Player\ name\ and\ number\n
+numComments=3

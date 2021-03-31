@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=left\ top\ width\ height\ image\ vx\ vy
+comment0.target=MobileSprite(double,\ double,\ int,\ int,\ java.lang.String,\ double,\ double)
+comment1.params=newVX
+comment1.target=void\ setVX(double)
+comment2.params=newVY
+comment2.target=void\ setVY(double)
+comment3.params=
+comment3.target=double\ getVX()
+comment4.params=
+comment4.target=double\ getVY()
+comment5.params=world
+comment5.target=void\ step(World)
+numComments=6

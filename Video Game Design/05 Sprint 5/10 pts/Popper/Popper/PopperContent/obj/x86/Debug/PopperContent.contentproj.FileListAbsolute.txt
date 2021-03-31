@@ -1,0 +1,2 @@
+C:\Users\pageg\Desktop\Popper\Popper\PopperContent\obj\x86\Debug\PopperContent.contentprojResolveAssemblyReference.cache
+C:\Users\229932\Desktop\Video Game Programming Labs\04 Sprint 5\10 pts\Popper\Popper\PopperContent\obj\x86\Debug\PopperContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=Path(java.lang.String)
+comment0.text=construct\ a\ path\ from\ a\ given\ file
+comment1.params=
+comment1.target=double\ getDistance()
+comment1.text=returns\ the\ distance\ traveled\ going\ point\ to\ point,\ in\ order\ given\ in\ file
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

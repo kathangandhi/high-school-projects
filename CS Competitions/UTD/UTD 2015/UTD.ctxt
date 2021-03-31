@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=input
+comment1.target=void\ ProblemH(int)
+comment2.params=pages\ pageNo
+comment2.target=void\ ProblemI(int,\ int)
+comment3.params=numerator\ denominator
+comment3.target=void\ ProblemJ(int,\ int)
+comment4.params=centerX\ centerY\ shotX\ shotY
+comment4.target=void\ ProblemK(double,\ double,\ double,\ double)
+comment5.params=amount
+comment5.target=void\ ProblemL(int)
+comment6.params=number
+comment6.target=void\ ProblemM(java.lang.String)
+numComments=7

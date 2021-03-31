@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=MyString(java.lang.String)
+comment0.text=\ \n\ constructs\ a\ new\ MyString\ object,\ using\ the\ value\ of\ the\n\ String\ parameter\ to\ initialize\ the\ instance\ variable\n\ @param\ s\ the\ value\ to\ set\ theString\n
+comment1.params=
+comment1.target=java.lang.String\ getTheString()
+comment1.text=\n\ theString\ getter\ method,\ returns\ the\ value\ of\ the\ private\n\ instance\ variable\ for\ this\ object\n\ @return\ theString\ variable\n
+comment2.params=newValue
+comment2.target=void\ setTheString(java.lang.String)
+comment2.text=\ \n\ theString\ setter\ method\ \n\ @param\ newValue\ the\ value\ to\ swap\ with\n
+numComments=3

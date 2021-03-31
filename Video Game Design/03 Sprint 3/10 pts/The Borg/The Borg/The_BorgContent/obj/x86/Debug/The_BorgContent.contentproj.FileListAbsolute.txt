@@ -1,0 +1,2 @@
+C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 2\10 pts\The Borg\The Borg\The_BorgContent\obj\x86\Debug\The_BorgContent.contentprojResolveAssemblyReference.cache
+C:\Users\pgandhi\Documents\Visual Studio 2015\Projects\The Borg\The Borg\The_BorgContent\obj\x86\Debug\The_BorgContent.contentprojResolveAssemblyReference.cache

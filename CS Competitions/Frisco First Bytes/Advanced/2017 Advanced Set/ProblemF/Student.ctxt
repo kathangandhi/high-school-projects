@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=name\ gpa\ studentID
+comment0.target=Student(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=java.lang.String\ getGPA()
+comment3.params=
+comment3.target=java.lang.String\ getStudentID()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=o
+comment5.target=int\ compareTo(java.lang.Object)
+comment5.text=\n\ @param\ Object\ o\ The\ object\ to\ be\ compared\ with\n\ @return\ \n\ -1\ if\ the\ Object\ should\ be\ placed\ lower\ in\ the\ list,<br>\n\ 1\ if\ the\ Object\ should\ be\ kept\ in\ the\ list,<br>\n\ 0\ if\ the\ Objects\ are\ equal\n
+numComments=6

@@ -1,0 +1,47 @@
+c:\users\pgandhi\documents\visual studio 2015\Projects\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Content\court.xnb
+c:\users\pgandhi\documents\visual studio 2015\Projects\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Content\house.xnb
+c:\users\pgandhi\documents\visual studio 2015\Projects\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Content\scenery.xnb
+c:\users\pgandhi\documents\visual studio 2015\Projects\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Content\sprite.xnb
+c:\users\pgandhi\documents\visual studio 2015\Projects\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Content\tree.xnb
+c:\users\pgandhi\documents\visual studio 2015\Projects\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Content\wall.xnb
+c:\users\pgandhi\documents\visual studio 2015\Projects\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Mini_Map.exe
+c:\users\pgandhi\documents\visual studio 2015\Projects\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Mini_Map.pdb
+c:\users\pgandhi\documents\visual studio 2015\Projects\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\pgandhi\documents\visual studio 2015\Projects\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\pgandhi\documents\visual studio 2015\Projects\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\pgandhi\documents\visual studio 2015\Projects\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\pgandhi\documents\visual studio 2015\Projects\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\pgandhi\documents\visual studio 2015\Projects\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\pgandhi\documents\visual studio 2015\Projects\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\pgandhi\documents\visual studio 2015\Projects\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\pgandhi\documents\visual studio 2015\Projects\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\pgandhi\documents\visual studio 2015\Projects\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\pgandhi\documents\visual studio 2015\Projects\Mini Map\Mini Map\Mini_Map\obj\x86\Debug\Mini_Map.csprojResolveAssemblyReference.cache
+c:\users\pgandhi\documents\visual studio 2015\Projects\Mini Map\Mini Map\Mini_Map\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\pgandhi\documents\visual studio 2015\Projects\Mini Map\Mini Map\Mini_Map\obj\x86\Debug\Mini_Map.exe
+c:\users\pgandhi\documents\visual studio 2015\Projects\Mini Map\Mini Map\Mini_Map\obj\x86\Debug\Mini_Map.pdb
+c:\users\pgandhi\documents\visual studio 2015\Projects\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Content\white.xnb
+C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Content\court.xnb
+C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Content\house.xnb
+C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Content\scenery.xnb
+C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Content\sprite.xnb
+C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Content\tree.xnb
+C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Content\wall.xnb
+C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Content\white.xnb
+C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Mini_Map.exe
+C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Mini_Map.pdb
+C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\obj\x86\Debug\Mini_Map.csprojResolveAssemblyReference.cache
+C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\obj\x86\Debug\Mini_Map.exe
+C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\obj\x86\Debug\Mini_Map.pdb
+C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Content\lake.xnb

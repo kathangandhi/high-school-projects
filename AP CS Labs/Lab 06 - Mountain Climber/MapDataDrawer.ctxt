@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=fileName\ rows\ cols
+comment0.target=MapDataDrawer(java.lang.String,\ int,\ int)
+comment0.text=constructor,\ parses\ input\ from\ the\ file\ into\ grid
+comment1.params=
+comment1.target=int\ findMin()
+comment1.text=\ \r\n\ The\ method\ that\ returns\ the\ smallest\ value\ in\ the\ 2D\ array\r\n\ @return\ the\ min\ value\ in\ the\ entire\ grid\ \r\n
+comment2.params=
+comment2.target=int\ findMax()
+comment2.text=\ \r\n\ The\ method\ that\ returns\ the\ largest\ value\ in\ the\ 2D\ array\r\n\ @return\ the\ max\ value\ in\ the\ entire\ grid\ \r\n
+comment3.params=g
+comment3.target=void\ drawMap(java.awt.Graphics)
+comment3.text=\r\n\ Draws\ the\ grid\ using\ the\ given\ Graphics\ object.\r\n\ Colors\ should\ be\ grayscale\ values\ 0-255,\ scaled\ based\ on\ min/max\ values\ in\ grid\r\n\ @param\ g\ the\ Graphics\ object\ to\ use\r\n
+comment4.params=g\ row
+comment4.target=int\ drawLowestElevPath(java.awt.Graphics,\ int)
+comment4.text=\r\n\ Find\ a\ path\ from\ West-to-East\ starting\ at\ given\ row.\r\n\ Choose\ a\ forward\ step\ out\ of\ 3\ possible\ forward\ locations,\ using\ greedy\ method\ described\ in\ assignment.\r\n\ @param\ g\ the\ Graphics\ object\r\n\ @return\ the\ total\ change\ in\ elevation\ traveled\ from\ West-to-East\r\n
+comment5.params=g
+comment5.target=int\ indexOfLowestElevPath(java.awt.Graphics)
+comment5.text=\ \r\n\ The\ method\ to\ find\ the\ most\ efficient\ path\ based\ on\ the\ greedy\ algorithm\r\n\ @param\ g\ the\ Graphics\ object\r\n\ @return\ the\ index\ of\ the\ starting\ row\ for\ the\ lowest-elevation-change\ path\ in\ the\ entire\ grid.\ \r\n
+numComments=6

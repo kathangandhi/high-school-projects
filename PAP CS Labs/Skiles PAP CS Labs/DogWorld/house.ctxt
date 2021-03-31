@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=house()
+comment1.params=g
+comment1.target=void\ showHouse(java.awt.Graphics)
+comment2.params=g
+comment2.target=void\ drawFrame(java.awt.Graphics)
+comment3.params=g
+comment3.target=void\ drawDoor(java.awt.Graphics)
+numComments=4

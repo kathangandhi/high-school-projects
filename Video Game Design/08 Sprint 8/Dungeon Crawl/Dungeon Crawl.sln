@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dungeon_Crawl", "Dungeon Crawl\Dungeon_Crawl\Dungeon_Crawl.csproj", "{411FF60F-8A2A-4CAB-B02F-5A43F1F306C3}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Dungeon_CrawlContent", "Dungeon Crawl\Dungeon_CrawlContent\Dungeon_CrawlContent.contentproj", "{F115AF89-F325-4F1C-8AD6-C25A40411077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{411FF60F-8A2A-4CAB-B02F-5A43F1F306C3}.Debug|x86.ActiveCfg = Debug|x86
+		{411FF60F-8A2A-4CAB-B02F-5A43F1F306C3}.Debug|x86.Build.0 = Debug|x86
+		{411FF60F-8A2A-4CAB-B02F-5A43F1F306C3}.Release|x86.ActiveCfg = Release|x86
+		{411FF60F-8A2A-4CAB-B02F-5A43F1F306C3}.Release|x86.Build.0 = Release|x86
+		{F115AF89-F325-4F1C-8AD6-C25A40411077}.Debug|x86.ActiveCfg = Debug|x86
+		{F115AF89-F325-4F1C-8AD6-C25A40411077}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

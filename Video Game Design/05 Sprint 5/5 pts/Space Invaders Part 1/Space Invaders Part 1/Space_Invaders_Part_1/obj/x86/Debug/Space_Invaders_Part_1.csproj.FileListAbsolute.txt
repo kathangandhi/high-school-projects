@@ -1,0 +1,17 @@
+C:\Users\pinaking\Desktop\VGD Labs\Space Invaders Part 1\Space Invaders Part 1\Space_Invaders_Part_1\bin\x86\Debug\Content\Space Invaders SS #1.xnb
+C:\Users\pinaking\Desktop\VGD Labs\Space Invaders Part 1\Space Invaders Part 1\Space_Invaders_Part_1\bin\x86\Debug\Space_Invaders_Part_1.exe
+C:\Users\pinaking\Desktop\VGD Labs\Space Invaders Part 1\Space Invaders Part 1\Space_Invaders_Part_1\bin\x86\Debug\Space_Invaders_Part_1.pdb
+C:\Users\pinaking\Desktop\VGD Labs\Space Invaders Part 1\Space Invaders Part 1\Space_Invaders_Part_1\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\pinaking\Desktop\VGD Labs\Space Invaders Part 1\Space Invaders Part 1\Space_Invaders_Part_1\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\pinaking\Desktop\VGD Labs\Space Invaders Part 1\Space Invaders Part 1\Space_Invaders_Part_1\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\pinaking\Desktop\VGD Labs\Space Invaders Part 1\Space Invaders Part 1\Space_Invaders_Part_1\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\pinaking\Desktop\VGD Labs\Space Invaders Part 1\Space Invaders Part 1\Space_Invaders_Part_1\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\pinaking\Desktop\VGD Labs\Space Invaders Part 1\Space Invaders Part 1\Space_Invaders_Part_1\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\pinaking\Desktop\VGD Labs\Space Invaders Part 1\Space Invaders Part 1\Space_Invaders_Part_1\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\pinaking\Desktop\VGD Labs\Space Invaders Part 1\Space Invaders Part 1\Space_Invaders_Part_1\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\pinaking\Desktop\VGD Labs\Space Invaders Part 1\Space Invaders Part 1\Space_Invaders_Part_1\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\pinaking\Desktop\VGD Labs\Space Invaders Part 1\Space Invaders Part 1\Space_Invaders_Part_1\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\pinaking\Desktop\VGD Labs\Space Invaders Part 1\Space Invaders Part 1\Space_Invaders_Part_1\obj\x86\Debug\Space_Invaders_Part_1.csprojResolveAssemblyReference.cache
+C:\Users\pinaking\Desktop\VGD Labs\Space Invaders Part 1\Space Invaders Part 1\Space_Invaders_Part_1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\pinaking\Desktop\VGD Labs\Space Invaders Part 1\Space Invaders Part 1\Space_Invaders_Part_1\obj\x86\Debug\Space_Invaders_Part_1.exe
+C:\Users\pinaking\Desktop\VGD Labs\Space Invaders Part 1\Space Invaders Part 1\Space_Invaders_Part_1\obj\x86\Debug\Space_Invaders_Part_1.pdb

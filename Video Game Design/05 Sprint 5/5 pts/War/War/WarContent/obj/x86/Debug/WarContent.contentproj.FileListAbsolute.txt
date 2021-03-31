@@ -1,0 +1,2 @@
+C:\Users\229932\Desktop\Video Game Programming Labs\04 Sprint 5\5 pts\War\War\WarContent\obj\x86\Debug\WarContent.contentprojResolveAssemblyReference.cache
+C:\Users\pinaking\Downloads\War\War\War\WarContent\obj\x86\Debug\WarContent.contentprojResolveAssemblyReference.cache

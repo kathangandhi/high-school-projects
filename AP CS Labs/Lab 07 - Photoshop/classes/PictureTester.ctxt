@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=Main\ method\ for\ testing
+comment1.params=
+comment1.target=void\ createCollage()
+comment1.text=Method\ to\ create\ a\ collage\ of\ several\ pictures
+comment2.params=
+comment2.target=void\ testChromakey()
+comment3.params=
+comment3.target=void\ testSteganography()
+numComments=4

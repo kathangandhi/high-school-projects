@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ Menu\ organizes\ the\ Food\ choices\ the\ player\ gets\r\n\r\n\ @author\ Kathan\ Gandhi\r\n\ @version\ 08/23/2019\r\n
+comment1.params=
+comment1.target=Menu()
+comment2.params=
+comment2.target=void\ loadMenu()
+comment3.params=
+comment3.target=java.util.ArrayList\ makeAvailable()
+comment4.params=
+comment4.target=java.util.ArrayList\ getAvailable()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

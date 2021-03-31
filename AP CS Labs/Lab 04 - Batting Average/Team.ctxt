@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Team()
+comment0.text=\r\n\ Default\ constructor\r\n
+comment1.params=numPlayers
+comment1.target=Team(int)
+comment1.text=\r\n\ Team\ constructor\ that\ initialises\ players\ array\ of\ size\ numPlayers\r\n
+comment2.params=
+comment2.target=void\ printTeamStats()
+comment2.text=\r\n\ Prints\ out\ information\ of\ each\ team\ member\ using\ \r\n\ the\ getter\ methods\ and\ getAverage()\ method\r\n
+comment3.params=p\ index
+comment3.target=void\ addPlayers(Player,\ int)
+comment3.text=\r\n\ Adds\ new\ Player\ p\ to\ the\ array\ at\ index\ specified\r\n
+numComments=4

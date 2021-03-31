@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=name\ number
+comment0.target=Player(java.lang.String,\ int)
+comment0.text=\r\n\ The\ Player\ constructor\ that\ sets\ name\ and\ number.\ \r\n\ It\ sets\ atBats\ and\ hits\ to\ 0.<br>\r\n\ ***Uses\ concept\ of\ constructor\ chaining***\ \r\n
+comment1.params=name\ number\ atBats\ hits
+comment1.target=Player(java.lang.String,\ int,\ int,\ int)
+comment1.text=\r\n\ The\ Player\ constructor\ that\ sets\ name,\ number,\ atBats,\ hits\r\n\ @param\ name\ Name\ of\ player\r\n\ @param\ number\ Kit\ number\ of\ Player\r\n\ @param\ atBats\ Batting\ chances\ of\ the\ Player\r\n
+comment2.params=
+comment2.target=double\ getBattingAverage()
+comment2.text=\r\n\ Calculates\ the\ batting\ average\ of\ the\ baseball\ player\r\n\ @return\ batting\ average\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=int\ getNumber()
+comment5.params=
+comment5.target=int\ getAtBats()
+comment6.params=
+comment6.target=int\ getHits()
+numComments=7

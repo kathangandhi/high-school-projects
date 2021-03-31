@@ -1,0 +1,16 @@
+c:\users\katha\documents\visual studio 2015\Projects\NumbersWrite\NumbersWrite\NumbersWrite\bin\x86\Debug\NumbersWrite.exe
+c:\users\katha\documents\visual studio 2015\Projects\NumbersWrite\NumbersWrite\NumbersWrite\bin\x86\Debug\NumbersWrite.pdb
+c:\users\katha\documents\visual studio 2015\Projects\NumbersWrite\NumbersWrite\NumbersWrite\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\katha\documents\visual studio 2015\Projects\NumbersWrite\NumbersWrite\NumbersWrite\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\katha\documents\visual studio 2015\Projects\NumbersWrite\NumbersWrite\NumbersWrite\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\katha\documents\visual studio 2015\Projects\NumbersWrite\NumbersWrite\NumbersWrite\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\katha\documents\visual studio 2015\Projects\NumbersWrite\NumbersWrite\NumbersWrite\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\katha\documents\visual studio 2015\Projects\NumbersWrite\NumbersWrite\NumbersWrite\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\katha\documents\visual studio 2015\Projects\NumbersWrite\NumbersWrite\NumbersWrite\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\katha\documents\visual studio 2015\Projects\NumbersWrite\NumbersWrite\NumbersWrite\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\katha\documents\visual studio 2015\Projects\NumbersWrite\NumbersWrite\NumbersWrite\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\katha\documents\visual studio 2015\Projects\NumbersWrite\NumbersWrite\NumbersWrite\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\katha\documents\visual studio 2015\Projects\NumbersWrite\NumbersWrite\NumbersWrite\obj\x86\Debug\NumbersWrite.csprojResolveAssemblyReference.cache
+c:\users\katha\documents\visual studio 2015\Projects\NumbersWrite\NumbersWrite\NumbersWrite\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\katha\documents\visual studio 2015\Projects\NumbersWrite\NumbersWrite\NumbersWrite\obj\x86\Debug\NumbersWrite.exe
+c:\users\katha\documents\visual studio 2015\Projects\NumbersWrite\NumbersWrite\NumbersWrite\obj\x86\Debug\NumbersWrite.pdb

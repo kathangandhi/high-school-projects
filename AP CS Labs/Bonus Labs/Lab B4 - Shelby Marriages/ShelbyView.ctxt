@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=md
+comment0.target=void\ updateView(int[])
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=
+comment2.target=java.awt.Color\ getRandomColor()
+numComments=3

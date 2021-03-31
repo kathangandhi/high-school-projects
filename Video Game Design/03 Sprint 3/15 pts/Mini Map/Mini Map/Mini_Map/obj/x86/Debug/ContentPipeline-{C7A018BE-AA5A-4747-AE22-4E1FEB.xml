@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>court.png</Source>
+      <Name>court</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Content\court.xnb</Output>
+      <Time>2019-10-21T06:14:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>house.png</Source>
+      <Name>house</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Content\house.xnb</Output>
+      <Time>2019-10-21T06:14:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>scenery.PNG</Source>
+      <Name>scenery</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Content\scenery.xnb</Output>
+      <Time>2019-10-21T06:14:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite.png</Source>
+      <Name>sprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Content\sprite.xnb</Output>
+      <Time>2019-10-21T06:14:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tree.PNG</Source>
+      <Name>tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Content\tree.xnb</Output>
+      <Time>2019-10-21T06:14:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>wall.PNG</Source>
+      <Name>wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Content\wall.xnb</Output>
+      <Time>2019-10-21T06:14:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>white.PNG</Source>
+      <Name>white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Content\white.xnb</Output>
+      <Time>2019-10-21T06:14:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>lake.PNG</Source>
+      <Name>lake</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Content\lake.xnb</Output>
+      <Time>2019-10-21T12:10:36.2152484-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{C7A018BE-AA5A-4747-AE22-4E1FEBAB02E4}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_MapContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 3\15 pts\Mini Map\Mini Map\Mini_Map\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-04-04T09:45:30.5725129-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

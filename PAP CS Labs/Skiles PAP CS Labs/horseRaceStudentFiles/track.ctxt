@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=track()
+comment1.params=g
+comment1.target=void\ showTrack(java.awt.Graphics)
+comment2.params=lane\ h
+comment2.target=void\ addHorse(int,\ horse)
+comment3.params=x
+comment3.target=boolean\ checkFinish(int)
+numComments=4

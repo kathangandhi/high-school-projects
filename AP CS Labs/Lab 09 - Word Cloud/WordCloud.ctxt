@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=WordCloud(java.lang.String)
+comment0.text=\r\n\ WordCloud\ constructor\ to\ initialise\ all\ instance\ variables\r\n\ @param\ fileName\ name\ of\ file\ directory\r\n
+comment1.params=fileName
+comment1.target=void\ load(java.lang.String)
+comment1.text=\r\n\ Parses\ all\ the\ words\ in\ the\ passage\ and\ initialises\ <code>words</code>\ with\r\n\ @param\ fileName\ name\ of\ file\ directory\r\n
+comment2.params=str
+comment2.target=int\ getIndex(java.lang.String)
+comment3.params=
+comment3.target=java.util.ArrayList\ getTopHits()
+comment4.params=
+comment4.target=void\ printInfo()
+numComments=5

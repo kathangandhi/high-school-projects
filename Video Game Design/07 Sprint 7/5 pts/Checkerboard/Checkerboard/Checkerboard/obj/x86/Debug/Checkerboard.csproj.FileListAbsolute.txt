@@ -1,0 +1,18 @@
+C:\Users\katha\Desktop\Video Game Design Labs\Checkerboard\Checkerboard\Checkerboard\bin\x86\Debug\Content\Black Square Checkers.xnb
+C:\Users\katha\Desktop\Video Game Design Labs\Checkerboard\Checkerboard\Checkerboard\bin\x86\Debug\Content\Red Square Checkers.xnb
+C:\Users\katha\Desktop\Video Game Design Labs\Checkerboard\Checkerboard\Checkerboard\bin\x86\Debug\Checkerboard.exe
+C:\Users\katha\Desktop\Video Game Design Labs\Checkerboard\Checkerboard\Checkerboard\bin\x86\Debug\Checkerboard.pdb
+C:\Users\katha\Desktop\Video Game Design Labs\Checkerboard\Checkerboard\Checkerboard\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\katha\Desktop\Video Game Design Labs\Checkerboard\Checkerboard\Checkerboard\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\katha\Desktop\Video Game Design Labs\Checkerboard\Checkerboard\Checkerboard\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\katha\Desktop\Video Game Design Labs\Checkerboard\Checkerboard\Checkerboard\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\katha\Desktop\Video Game Design Labs\Checkerboard\Checkerboard\Checkerboard\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\katha\Desktop\Video Game Design Labs\Checkerboard\Checkerboard\Checkerboard\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\katha\Desktop\Video Game Design Labs\Checkerboard\Checkerboard\Checkerboard\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\katha\Desktop\Video Game Design Labs\Checkerboard\Checkerboard\Checkerboard\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\katha\Desktop\Video Game Design Labs\Checkerboard\Checkerboard\Checkerboard\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\katha\Desktop\Video Game Design Labs\Checkerboard\Checkerboard\Checkerboard\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\katha\Desktop\Video Game Design Labs\Checkerboard\Checkerboard\Checkerboard\obj\x86\Debug\Checkerboard.csprojResolveAssemblyReference.cache
+C:\Users\katha\Desktop\Video Game Design Labs\Checkerboard\Checkerboard\Checkerboard\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\katha\Desktop\Video Game Design Labs\Checkerboard\Checkerboard\Checkerboard\obj\x86\Debug\Checkerboard.exe
+C:\Users\katha\Desktop\Video Game Design Labs\Checkerboard\Checkerboard\Checkerboard\obj\x86\Debug\Checkerboard.pdb

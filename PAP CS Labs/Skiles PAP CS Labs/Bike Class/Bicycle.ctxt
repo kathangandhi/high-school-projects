@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=Bicycle(java.lang.String)
+comment1.params=newSpeed
+comment1.target=void\ setSpeed(double)
+comment2.params=deltaSpeed
+comment2.target=void\ increaseSpeed(double)
+comment3.params=hours
+comment3.target=double\ travel(double)
+numComments=4

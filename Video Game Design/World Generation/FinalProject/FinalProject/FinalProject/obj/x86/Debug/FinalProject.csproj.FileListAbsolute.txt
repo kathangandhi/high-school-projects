@@ -1,0 +1,108 @@
+C:\Users\Kupo7\Desktop\XNA Projects\FinalProject\FinalProject\FinalProject\obj\x86\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Kupo7\Desktop\XNA Projects\FinalProject\FinalProject\FinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kupo7\Desktop\XNA Projects\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\SquareOutline.xnb
+C:\Users\Kupo7\Desktop\XNA Projects\FinalProject\FinalProject\FinalProject\bin\x86\Debug\FinalProject.exe
+C:\Users\Kupo7\Desktop\XNA Projects\FinalProject\FinalProject\FinalProject\bin\x86\Debug\FinalProject.pdb
+C:\Users\Kupo7\Desktop\XNA Projects\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Kupo7\Desktop\XNA Projects\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Kupo7\Desktop\XNA Projects\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Kupo7\Desktop\XNA Projects\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Kupo7\Desktop\XNA Projects\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Kupo7\Desktop\XNA Projects\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Kupo7\Desktop\XNA Projects\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Kupo7\Desktop\XNA Projects\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Kupo7\Desktop\XNA Projects\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Kupo7\Desktop\XNA Projects\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Kupo7\Desktop\XNA Projects\FinalProject\FinalProject\FinalProject\obj\x86\Debug\FinalProject.exe
+C:\Users\Kupo7\Desktop\XNA Projects\FinalProject\FinalProject\FinalProject\obj\x86\Debug\FinalProject.pdb
+C:\Users\Kupo7\Desktop\XNA Projects\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\whiterectangle.xnb
+C:\Users\Kupo7\Desktop\XNA Projects\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\BlackOutline.xnb
+C:\Users\Kupo7\Desktop\XNA Projects\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\TestBackground.xnb
+C:\Users\Kupo7\Desktop\XNA Projects\finalProject\FinalProject\FinalProject\bin\x86\Debug\Content\Carter pic.xnb
+C:\Users\Kupo7\Desktop\XNA Projects\finalProject\FinalProject\FinalProject\bin\x86\Debug\Content\PixelSoldierReference (2).xnb
+C:\Users\Kupo7\Desktop\XNA Projects\finalProject\FinalProject\FinalProject\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Kupo7\Desktop\XNA Projects\finalProject\FinalProject\FinalProject\bin\x86\Debug\Content\PixelSoldier.xnb
+C:\Users\Kupo7\Desktop\XNA Projects\finalProject\FinalProject\FinalProject\bin\x86\Debug\Content\Bakerland.xnb
+C:\Users\katha\Downloads\FuckCarter2\FinalProject\FinalProject\FinalProject\obj\x86\Debug\FinalProject.exe
+C:\Users\katha\Downloads\FuckCarter2\FinalProject\FinalProject\FinalProject\obj\x86\Debug\FinalProject.pdb
+C:\Users\katha\Downloads\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\SquareOutline.xnb
+C:\Users\katha\Downloads\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\whiterectangle.xnb
+C:\Users\katha\Downloads\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\BlackOutline.xnb
+C:\Users\katha\Downloads\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\TestBackground.xnb
+C:\Users\katha\Downloads\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\Carter pic.xnb
+C:\Users\katha\Downloads\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\PixelSoldierReference (2).xnb
+C:\Users\katha\Downloads\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\PixelSoldier.xnb
+C:\Users\katha\Downloads\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\Bakerland.xnb
+C:\Users\katha\Downloads\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\katha\Downloads\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\FinalProject.exe
+C:\Users\katha\Downloads\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\FinalProject.pdb
+C:\Users\katha\Downloads\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\katha\Downloads\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\katha\Downloads\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\katha\Downloads\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\katha\Downloads\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\katha\Downloads\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\katha\Downloads\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\katha\Downloads\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\katha\Downloads\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\katha\Downloads\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\katha\Downloads\FuckCarter2\FinalProject\FinalProject\FinalProject\obj\x86\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\katha\Downloads\FuckCarter2\FinalProject\FinalProject\FinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\SquareOutline.xnb
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\whiterectangle.xnb
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\BlackOutline.xnb
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\TestBackground.xnb
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\Carter pic.xnb
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\PixelSoldierReference.xnb
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\PixelSoldier.xnb
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\Bakerland.xnb
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\FinalProject.exe
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\FinalProject.pdb
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\obj\x86\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\obj\x86\Debug\FinalProject.exe
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\obj\x86\Debug\FinalProject.pdb
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\empire 1.xnb
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\empire 2.xnb
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\empire 3.xnb
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\empire 4.xnb
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\SquareOutline.xnb
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\whiterectangle.xnb
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\BlackOutline.xnb
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\TestBackground.xnb
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\Carter pic.xnb
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\PixelSoldierReference.xnb
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\PixelSoldier.xnb
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\Bakerland.xnb
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\empire 1.xnb
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\empire 2.xnb
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\empire 3.xnb
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\empire 4.xnb
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\bin\x86\Debug\FinalProject.exe
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\bin\x86\Debug\FinalProject.pdb
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\obj\x86\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\obj\x86\Debug\FinalProject.exe
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProject\obj\x86\Debug\FinalProject.pdb

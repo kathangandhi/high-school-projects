@@ -1,0 +1,103 @@
+#BlueJ class context
+comment0.params=min\ max
+comment0.target=int\ random(int,\ int)
+comment0.text=\r\n\ Returns\ a\ "true"\ random\ integer\ in\ the\ [min..max]\ range,\ inclusive.\ <BR>\r\n\ Precondition\:\ max\ >\ min\ <br>\r\n\ Example\:<br>\r\n\ System.out.println(Expo.random(100,200));\ <br>\r\n\ This\ will\ display\ a\ random\ integer\ between\ 100\ and\ 200.\r\n
+comment1.params=
+comment1.target=void\ pause()
+comment1.text=\r\n\ Pauses\ the\ output\ and\ waits\ for\ the\ user\ to\ press\ the\ [enter]\ key.\ <br>\r\n\ Example\:\ <br>\r\n\ Expo.pause();\r\n
+comment10.params=g
+comment10.target=void\ setRandomColor(java.awt.Graphics)
+comment10.text=\r\n\ Sets\ the\ current\ color\ to\ a\ random\ color\ value\ which\ can\ be\ any\ of\ the\ 16,000,000+\ possible\ colors.\ <br>\r\n\ Example\:\ <br>\r\n\ Expo.setRandomColor(g);\r\n
+comment11.params=g\ bgColor
+comment11.target=void\ setBackground(java.awt.Graphics,\ java.awt.Color)
+comment11.text=\r\n\ Sets\ the\ entire\ background\ to\ a\ single\ color\ using\ a\ Color\ object\ parameter.\ <br>\r\n\ Precondition\:\ The\ applet\ window\ cannot\ be\ greater\ than\ 4800\ X\ 3600\ in\ size.\ <br>\r\n\ Postcondition\:\ The\ current\ drawing\ color\ will\ not\ be\ affected\ by\ the\ background\ color.\ <br>\r\n\ Example\:\ <br>\r\n\ Expo.setBackground(g,Expo.red);\r\n\ This\ will\ make\ the\ entire\ background\ red.\r\n\ 36\ colors\ constants\ are\ built\ into\ the\ Expo\ class.\ \ These\ colors\ are\ listed\ near\ the\ top\ of\ this\ file.\r\n
+comment12.params=g\ colorNum
+comment12.target=void\ setBackground(java.awt.Graphics,\ int)
+comment12.text=\r\n\ Sets\ the\ entire\ background\ to\ one\ of\ 10\ predefined\ primary\ colors\ using\ a\ single\ int\ parameter.\ <br>\r\n\ 0\ \=\ black\ <br>\r\n\ 1\ \=\ red\ <br>\r\n\ 2\ \=\ green\ <br>\r\n\ 3\ \=\ blue\ <br>\r\n\ 4\ \=\ orange\ <br>\r\n\ 5\ \=\ cyan\ <br>\r\n\ 6\ \=\ magenta\ <br>\r\n\ 7\ \=\ yellow\ <br>\r\n\ 8\ \=\ gray\ <br>\r\n\ 9\ \=\ pink\ <br>\r\n\ Any\ negative\ number\ will\ give\ you\ white.\ <br><br>\r\n\ Example\:\ <br>\r\n\ Expo.setBackground(g,1);\ <br>\r\n\ Changes\ the\ background\ color\ to\ red.\r\n
+comment13.params=g\ red\ green\ blue
+comment13.target=void\ setBackground(java.awt.Graphics,\ int,\ int,\ int)
+comment13.text=\r\n\ Sets\ the\ entire\ background\ to\ a\ single\ color\ using\ 3\ int\ parameters\ representing\ the\ amount\ of\ red,\ green\ and\ blue.<br>\r\n\ This\ allows\ for\ more\ than\ 16\ million\ different\ color\ combinations.\ <br>\r\n\ Preconditions\:\ All\ 3\ color\ values\ need\ to\ be\ between\ 0\ and\ 255\ inclusive.\ <br>\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ The\ applet\ window\ cannot\ be\ greater\ than\ 4800\ X\ 3600\ in\ size.\ <br>\r\n\ Postcondition\:\ The\ current\ drawing\ color\ will\ not\ be\ affected\ by\ the\ background\ color.\ <br>\r\n\ Example\:\ <br>\r\n\ Expo.setBackground(g,190,10,47);\ <br>\r\n\ Changes\ the\ background\ color\ to\ the\ shade\ of\ red\ used\ in\ the\ official\ Texas\ Flag\r\n
+comment14.params=g\ x\ y
+comment14.target=void\ drawPixel(java.awt.Graphics,\ int,\ int)
+comment14.text=\r\n\ Draws\ a\ single\ pixel\ at\ the\ specified\ x,y\ location.\ <BR>\r\n\ Example\:\ <BR>\r\n\ Expo.drawPixel(g,100,200);\ <BR>\r\n\ Draws\ a\ very\ small\ single\ dot\ (pixel)\ on\ the\ computer\ screen\ 100\ pixels\ over\ and\ 200\ pixels\ down\r\n
+comment15.params=g\ x\ y
+comment15.target=void\ drawPoint(java.awt.Graphics,\ int,\ int)
+comment15.text=\r\n\ Draws\ a\ 3\ pixel\ X\ 3\ pixel\ "point"\ whose\ center\ is\ at\ the\ specified\ x,y\ location.\ <BR>\r\n\ Example\:\ <BR>\r\n\ Expo.drawPoint(g,100,200);\r\n\ Draws\ a\ larger,\ more\ visible\ (than\ drawPixel)\ dot\ on\ the\ computer\ screen\ 100\ pixels\ over\ and\ 200\ pixels\ down.\r\n
+comment16.params=g\ x1\ y1\ x2\ y2
+comment16.target=void\ drawLine(java.awt.Graphics,\ int,\ int,\ int,\ int)
+comment16.text=\r\n\ Draws\ the\ line\ segment\ connecting\ coordinates\ x1,y1\ and\ x2,y2.\ <BR>\r\n\ Example\:\ <BR>\r\n\ Expo.drawLine(g,100,200,300,400);\ <BR>\r\n\ Draws\ a\ line\ segment\ connecting\ the\ starting\ coordinate\ point\ (100,200)\ with\ the\ ending\ point\ (300,400).\r\n
+comment17.params=g\ centerX\ centerY\ radius
+comment17.target=void\ drawCircle(java.awt.Graphics,\ int,\ int,\ int)
+comment17.text=\r\n\ Draws\ an\ open\ circle.<br>\r\n\ The\ user\ specifies\ the\ x,y\ coordinate\ of\ the\ center\ of\ the\ circle\ as\ well\ as\ the\ radius\ value.\ <br>\r\n\ Example\:\ <br>\r\n\ Expo.drawCircle(g,300,200,100);\ <br>\r\n\ Draws\ an\ open\ circle\ with\ a\ radius\ of\ 100\ pixels\ whose\ center\ is\ located\ at\ the\ coordinate\ (300,200).\r\n
+comment18.params=g\ centerX\ centerY\ hRadius\ vRadius
+comment18.target=void\ drawOval(java.awt.Graphics,\ int,\ int,\ int,\ int)
+comment18.text=\r\n\ Draws\ an\ open\ oval.<br>\r\n\ The\ user\ specifies\ the\ x,y\ coordinate\ of\ the\ center\ of\ the\ oval\ as\ well\ as\ the\ horizontal\ and\ vertical\ radii\ values.\ <br>\r\n\ Example\:\ <br>\r\n\ Expo.drawOval(g,300,200,100,50);\ <br>\r\n\ Draws\ an\ open\ oval\ with\ a\ horizontal\ radius\ of\ 100\ pixels\ and\ a\ vertical\ radius\ of\ 50\ pixels.\ <br>\r\n\ The\ center\ of\ this\ oval\ is\ located\ at\ the\ coordinate\ (300,200).\r\n
+comment19.params=g\ centerX\ centerY\ hRadius\ vRadius\ start\ finish
+comment19.target=void\ drawArc(java.awt.Graphics,\ int,\ int,\ int,\ int,\ int,\ int)
+comment19.text=\r\n\ Draws\ and\ arc\ which\ looks\ like\ a\ curve.<br>\r\n\ An\ ARC\ is\ a\ "piece"\ of\ an\ OVAL.<br>\r\n\ The\ first\ 5\ parameters\ (g\ and\ 4\ ints)\ are\ the\ same\ as\ drawOval.<br>\r\n\ There\ are\ 2\ additional\ parameters\ for\ the\ starting\ degree\ value\ and\ finishing\ degree\ of\ the\ arc.\ <br>\r\n\ 0\ degrees\ is\ at\ the\ 12\:00\ position\ and\ the\ degrees\ progress\ in\ a\ CLOCKWISE\ fashion.\ <br>\r\n\ (90\ degrees\ is\ at\ 3\:00,\ 180\ degrees\ is\ at\ 6\:00,\ 270\ degrees\ is\ at\ 9\:00,\ 360\ degrees\ is\ back\ at\ 12\:00).\r\n
+comment2.params=n
+comment2.target=void\ delay(int)
+comment2.text=\r\n\ Pauses\ the\ output\ for\ a\ specified\ number\ of\ milliseconds\ (1/1000ths\ of\ a\ second).\ <br>\r\n\ Examples\:<br>\r\n\ Expo.delay(1000);\ //\ pause\ for\ 1\ second\ <br>\r\n\ Expo.delay(2000);\ //\ pause\ for\ 2\ seconds\ <br>\r\n\ Expo.delay(500);\ \ //\ pause\ for\ 1/2\ of\ a\ second\ <br>\r\n\ Expo.delay(100);\ \ //\ pause\ for\ 1/10\ of\ a\ second\ <br>\r\n\ Expo.delay(10);\ \ \ //\ pause\ for\ 1/100\ of\ a\ second\ <br>\r\n\ Expo.delay(1);\ \ \ \ //\ pause\ for\ 1/1000\ of\ a\ second\ <br>\r\n
+comment20.params=g\ coordinate
+comment20.target=void\ drawPolygon(java.awt.Graphics,\ int[])
+comment20.text=\r\n\ Draws\ an\ open\ irregular\ polygon\ using\ 3\ or\ more\ sets\ of\ provided\ coordinates.\ <br>\r\n\ Examples\:\ <br>\r\n\ Expo.drawPolygon(g,100,300,200,100,300,300);\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ //\ for\ a\ triangle\r\n\ Expo.drawPolygon(g,525,300,600,250,650,250,725,300,725,350,650,400);\ //\ for\ a\ hexagon\r\n
+comment21.params=g\ centerX\ centerY\ radius\ sides
+comment21.target=void\ drawRegularPolygon(java.awt.Graphics,\ int,\ int,\ int,\ int)
+comment21.text=\r\n\ Draws\ an\ open\ regular\ polygon\ with\ a\ specified\ number\ of\ sides.<br>\r\n\ The\ center\ of\ this\ polygon\ is\ specified\ by\ centerX,centerY\ and\ its\ size\ is\ specified\ by\ radius\ <br>\r\n\ (As\ in\ the\ radius\ of\ the\ circle\ the\ regular\ polygon\ would\ fit\ inside).\ <br>\r\n\ Precondition\:\ sides\ >\=\ 3\ <br>\r\n\ Example\:\r\n\ Expo.drawRegularPolygon(g,300,200,100,8);\r\n\ Draws\ an\ open\ regular\ octagon\ with\ a\ radius\ of\ 100\ pixels\ whose\ center\ is\ located\ at\ the\ coordinate\ (300,200).\r\n
+comment22.params=g\ x1\ y1\ x2\ y2
+comment22.target=void\ drawRectangle(java.awt.Graphics,\ int,\ int,\ int,\ int)
+comment22.text=\r\n\ Draws\ an\ open\ rectangle.<br>\r\n\ The\ upper-left-hand\ corner\ is\ specified\ by\ x1,y1\ and\ the\ lower-right-hand\ corner\ is\ specified\ by\ x2,\ y2.\ <br>\r\n\ Example\:\ <br>\r\n\ Expo.drawRectangle(g,100,200,300,400);\ <br>\r\n\ Draws\ an\ open\ rectangle\ whose\ upper-left-hand\ coordinate\ is\ (100,200)\ and\ whose\ lower-right-hand\ coordinate\ is\ (300,400).\r\n
+comment23.params=g\ centerX\ centerY\ radius\ points
+comment23.target=void\ drawStar(java.awt.Graphics,\ int,\ int,\ int,\ int)
+comment23.text=\r\n\ Draws\ an\ open\ star\ with\ a\ specified\ number\ of\ points.<br>\r\n\ The\ center\ of\ this\ star\ is\ specified\ by\ centerX,centerY\ and\ its\ size\ is\ specified\ by\ radius\ <br>\r\n\ (As\ in\ the\ radius\ of\ the\ circle\ the\ star\ would\ fit\ inside).\ <br>\r\n\ Precondition\:\ points\ >\=\ 2\ <br>\r\n\ Example\:\ <br>\r\n\ Expo.drawStar(g,300,200,100,8);\ <br>\r\n\ Draws\ an\ open\ star\ with\ 8\ points\ and\ a\ radius\ of\ 100\ pixels\ whose\ center\ is\ located\ at\ the\ coordinate\ (300,200).\r\n
+comment24.params=g\ s\ x\ y
+comment24.target=void\ drawString(java.awt.Graphics,\ java.lang.String,\ int,\ int)
+comment24.text=\r\n\ Draws\ a\ String\ s\ on\ the\ graphics\ screen\ at\ a\ certain\ x,y\ coordinate.\ <br>\r\n\ The\ coordinate\ x,y\ is\ the\ location\ of\ the\ bottom-left\ corner\ of\ the\ first\ character\ in\ the\ String\ s.\ <br>\r\n\ Example\:\ <br>\r\n\ Expo.drawString(g,"Hello\ There\!",100,200);\r\n
+comment25.params=g\ name\ style\ size
+comment25.target=void\ setFont(java.awt.Graphics,\ java.lang.String,\ int,\ int)
+comment25.text=\r\n\ Allows\ you\ to\ change\ the\ current\ "font"\ used\ by\ the\ drawString\ method.\ <br>\r\n\ Example\:\ <br>\r\n\ Expo.setFont(g,"Courier",Font.BOLD,36);\r\n
+comment26.params=g\ centerX\ centerY\ radius
+comment26.target=void\ fillCircle(java.awt.Graphics,\ int,\ int,\ int)
+comment26.text=\r\n\ Draws\ a\ solid\ "filled\ in"\ circle.<br>\r\n\ The\ user\ specifies\ the\ x,y\ coordinate\ of\ the\ center\ of\ the\ circle\ as\ well\ as\ the\ radius\ value.\ <br>\r\n\ Example\:\ <br>\r\n\ Expo.fillCircle(g,300,200,100);\ <br>\r\n\ Draws\ a\ solid\ circle\ with\ a\ radius\ of\ 100\ pixels\ whose\ center\ is\ located\ at\ the\ coordinate\ (300,200).\r\n
+comment27.params=g\ centerX\ centerY\ hRadius\ vRadius
+comment27.target=void\ fillOval(java.awt.Graphics,\ int,\ int,\ int,\ int)
+comment27.text=\r\n\ Draws\ a\ solid\ "filled\ in"\ oval.<br>\r\n\ The\ user\ specifies\ the\ x,y\ coordinate\ of\ the\ center\ of\ the\ oval\ as\ well\ as\ the\ horizontal\ and\ vertical\ radii\ values.\ \ <br>\r\n\ Example\:\ <br>\r\n\ Expo.fillOval(g,300,200,100,50);\ <br>\r\n\ Draws\ a\ solid\ oval\ with\ a\ horizontal\ radius\ of\ 100\ pixels\ and\ a\ vertical\ radius\ of\ 50\ pixels.\ <br>\r\n\ The\ center\ of\ this\ oval\ is\ located\ at\ the\ coordinate\ (300,200).\r\n
+comment28.params=g\ centerX\ centerY\ hRadius\ vRadius\ start\ finish
+comment28.target=void\ fillArc(java.awt.Graphics,\ int,\ int,\ int,\ int,\ int,\ int)
+comment28.text=\r\n\ Draws\ a\ "solid"\ arc\ which\ will\ look\ either\ like\ a\ pie\ wedge\ or\ Pac-man.<br>\r\n\ A\ FILLED\ ARC\ is\ a\ "piece"\ of\ a\ SOLID\ OVAL.<br>\r\n\ The\ first\ 5\ parameters\ (g\ and\ 4\ ints)\ are\ the\ same\ as\ drawOval.<br>\r\n\ There\ are\ 2\ additional\ parameters\ for\ the\ starting\ degree\ value\ and\ finishing\ degree\ of\ the\ arc.\ <br>\r\n\ 0\ degrees\ is\ at\ the\ 12\:00\ position\ and\ the\ degrees\ progress\ in\ a\ CLOCKWISE\ fashion.\ <br>\r\n\ (90\ degrees\ is\ at\ 3\:00,\ 180\ degrees\ is\ at\ 6\:00,\ 270\ degrees\ is\ at\ 9\:00,\ 360\ degrees\ is\ back\ at\ 12\:00).\r\n
+comment29.params=g\ coordinate
+comment29.target=void\ fillPolygon(java.awt.Graphics,\ int[])
+comment29.text=\r\n\ Draws\ an\ solid\ "filled-in"\ irregular\ polygon\ using\ 3\ or\ more\ sets\ of\ provided\ coordinates.\ <br>\r\n\ Examples\:\ <br>\r\n\ Expo.fillPolygon(g,100,300,200,100,300,300);\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ //\ for\ a\ triangle\r\n\ Expo.fillPolygon(g,525,300,600,250,650,250,725,300,725,350,650,400);\ //\ for\ a\ hexagon\r\n
+comment3.params=
+comment3.target=int\ enterInt()
+comment3.text=\r\n\ Allows\ input\ of\ an\ int\ (integer)\ from\ the\ keyboard\ in\ a\ text\ window.\ <br>\r\n\ Example\:\ <br>\r\n\ System.out.print("How\ old\ are\ you?\ \ -->\ \ ");\ <br>\r\n\ int\ age\ \=\ Expo.enterInt();\r\n
+comment30.params=g\ centerX\ centerY\ radius\ sides
+comment30.target=void\ fillRegularPolygon(java.awt.Graphics,\ int,\ int,\ int,\ int)
+comment30.text=\r\n\ Draws\ a\ solid\ "filled\ in"\ regular\ polygon\ with\ a\ specified\ number\ of\ sides.<br>\r\n\ The\ center\ of\ this\ polygon\ is\ specified\ by\ centerX,centerY\ and\ its\ size\ is\ specified\ by\ radius\ <br>\r\n\ (As\ in\ the\ radius\ of\ the\ circle\ the\ regular\ polygon\ would\ fit\ inside).\ <br>\r\n\ Precondition\:\ sides\ >\=\ 3\ <br>\r\n\ Example\:\r\n\ Expo.fillRegularPolygon(g,300,200,100,8);\r\n\ Draws\ a\ solid\ "filled-in"\ regular\ octagon\ with\ a\ radius\ of\ 100\ pixels\ whose\ center\ is\ located\ at\ the\ coordinate\ (300,200).\r\n
+comment31.params=g\ x1\ y1\ x2\ y2
+comment31.target=void\ fillRectangle(java.awt.Graphics,\ int,\ int,\ int,\ int)
+comment31.text=\r\n\ Draws\ a\ solid\ "filled\ in"\ rectangle.<br>\r\n\ The\ upper-left-hand\ corner\ is\ specified\ by\ x1,y1\ and\ the\ lower-right-hand\ corner\ is\ specified\ by\ x2,\ y2.\ <br>\r\n\ Example\:\ <br>\r\n\ Expo.fillRectangle(g,100,200,300,400);\ <br>\r\n\ Draws\ an\ open\ rectangle\ whose\ upper-left-hand\ coordinate\ is\ (100,200)\ and\ whose\ lower-right-hand\ coordinate\ is\ (300,400).\r\n
+comment32.params=radius\ points
+comment32.target=int\ getHalfRadius(int,\ int)
+comment33.params=g\ centerX\ centerY\ radius\ points
+comment33.target=void\ fillStar(java.awt.Graphics,\ int,\ int,\ int,\ int)
+comment33.text=\r\n\ Draws\ a\ solid\ "filled\ in"\ star\ with\ a\ specified\ number\ of\ points.<br>\r\n\ The\ center\ of\ this\ star\ is\ specified\ by\ centerX,centerY\ and\ its\ size\ is\ specified\ by\ radius\ <br>\r\n\ (As\ in\ the\ radius\ of\ the\ circle\ the\ star\ would\ fit\ inside).\ <br>\r\n\ Precondition\:\ points\ >\=\ 2\ <br>\r\n\ Example\:\ <br>\r\n\ Expo.fillStar(g,300,200,100,8);\ <br>\r\n\ Draws\ a\ solid\ star\ with\ 8\ points\ and\ a\ radius\ of\ 100\ pixels\ whose\ center\ is\ located\ at\ the\ coordinate\ (300,200).\r\n
+comment4.params=
+comment4.target=double\ enterDouble()
+comment4.text=\r\n\ Allows\ input\ of\ a\ double\ (real\ number)\ from\ the\ keyboard\ in\ a\ text\ window.\ <br>\r\n\ Example\:\ <br>\r\n\ System.out.print("What\ is\ your\ current\ GPA?\ \ {0.00\ -\ 4.00}\ \ -->\ \ ");\ <br>\r\n\ double\ gpa\ \=\ Expo.enterDouble();\r\n
+comment5.params=
+comment5.target=java.lang.String\ enterString()
+comment5.text=\r\n\ Allows\ input\ of\ a\ String\ from\ the\ keyboard\ in\ a\ text\ window.\ <br>\r\n\ Example\:\ <br>\r\n\ System.out.print("What\ is\ your\ name?\ \ --->\ \ ");\ <br>\r\n\ String\ name\ \=\ Expo.enterString();\r\n
+comment6.params=
+comment6.target=char\ enterChar()
+comment6.text=\r\n\ Allows\ input\ of\ a\ char\ from\ the\ keyboard\ in\ a\ text\ window.\ <br>\r\n\ Example\:\ <br>\r\n\ System.out.print("What\ is\ your\ middle\ initial?\ \ -->\ \ ");\ <br>\r\n\ char\ middleInitial\ \=\ Expo.enterChar();\r\n
+comment7.params=g\ newColor
+comment7.target=void\ setColor(java.awt.Graphics,\ java.awt.Color)
+comment7.text=\r\n\ Allows\ the\ user\ to\ change\ the\ color,\ using\ a\ Color\ object\ parameter.\ <BR>\r\n\ Example\:\r\n\ Expo.setColor(g,Expo.red);\r\n\ Changes\ the\ current\ drawing\ \ color\ to\ red.\r\n\ 36\ colors\ constants\ are\ built\ into\ the\ Expo\ class.\ \ These\ colors\ are\ listed\ near\ the\ top\ of\ this\ file.\r\n
+comment8.params=g\ colorNum
+comment8.target=void\ setColor(java.awt.Graphics,\ int)
+comment8.text=\r\n\ Allows\ the\ user\ to\ change\ to\ one\ of\ 10\ predefined\ primary\ colors\ using\ a\ single\ int\ parameter.<br>\r\n\ This\ is\ especially\ useful\ in\ programs\ where\ you\ want\ to\ change\ from\ one\ color\ to\ a\ contrasting\ color\ quickly.\ <br>\r\n\ 0\ \=\ black\ <br>\r\n\ 1\ \=\ red\ <br>\r\n\ 2\ \=\ green\ <br>\r\n\ 3\ \=\ blue\ <br>\r\n\ 4\ \=\ orange\ <br>\r\n\ 5\ \=\ cyan\ <br>\r\n\ 6\ \=\ magenta\ <br>\r\n\ 7\ \=\ yellow\ <br>\r\n\ 8\ \=\ gray\ <br>\r\n\ 9\ \=\ pink\ <br>\r\n\ Any\ negative\ number\ will\ give\ you\ white.\ <br><br>\r\n\ Example\:\ <br>\r\n\ Expo.setColor(g,1);\ <br>\r\n\ Changes\ the\ current\ drawing\ color\ to\ red.\r\n
+comment9.params=g\ red\ green\ blue
+comment9.target=void\ setColor(java.awt.Graphics,\ int,\ int,\ int)
+comment9.text=\r\n\ Allows\ the\ user\ to\ change\ the\ color,\ using\ 3\ int\ parameters\ representing\ the\ amount\ of\ red,\ green\ and\ blue.<br>\r\n\ This\ allows\ for\ more\ than\ 16\ million\ different\ color\ combinations.\ <br>\r\n\ Precondition\:\ All\ 3\ color\ values\ need\ to\ be\ between\ 0\ and\ 255\ inclusive.\ <br>\r\n\ Example\:\ <br>\r\n\ Expo.setColor(g,190,10,47);\ <br>\r\n\ Changes\ the\ current\ drawing\ color\ to\ the\ shade\ of\ red\ used\ in\ the\ official\ Texas\ Flag\r\n
+numComments=34

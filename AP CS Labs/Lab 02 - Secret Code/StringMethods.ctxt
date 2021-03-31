@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=void\ unusualHello(java.lang.String)
+comment0.text=\r\n\ Greets\ name\ with\ concatenation\ of\ Strings\ in\ methods\r\n\ @param\ name\ The\ name\ to\ greet\r\n
+comment1.params=str
+comment1.target=java.lang.String\ stringRipper(java.lang.String)
+comment1.text=\r\n\ Returns\ last\ first\ and\ last\ characters\ in\ str\r\n\ @param\ str\ the\ String\ to\ act\ upon\r\n\ @return\ the\ first\ and\ last\ characters\ of\ str\r\n
+comment2.params=a\ b\ space
+comment2.target=java.lang.String\ concatenate(java.lang.String,\ java.lang.String,\ boolean)
+comment2.text=\r\n\ Returns\ a\ and\ b\ with\ or\ without\ space\ indicated\ by\ boolean\ space\r\n\ @param\ first\ String\r\n\ @param\ second\ String\r\n\ @param\ space\ decided\ if\ space\ should\ be\ added\ between\ a\ and\ b\r\n\ @return\ desired\ String\r\n
+comment3.params=str\ sub
+comment3.target=boolean\ hasSub(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ Checks\ if\ sub\ is\ present\ in\ String\r\n\ @param\ str\ the\ big\ String\ to\ check\r\n\ @param\ sub\ the\ key\ to\ check\ in\ str\r\n\ @return\ whether\ sub\ is\ present\ in\ str\ or\ not\r\n
+comment4.params=str
+comment4.target=boolean\ evenFooBar(java.lang.String)
+comment4.text=\r\n\ Checks\ if\ equal\ numbers\ of\ "foo"\ and\ "bar"\ are\ present\ in\ str\r\n\ @param\ str\ the\ big\ String\ to\ check\r\n\ @return\ whether\ equal\ numbers\ of\ "foo"\ and\ "bar"\ are\ present\r\n
+comment5.params=str
+comment5.target=java.lang.String\ microwaveTime(java.lang.String)
+comment5.text=\r\n\ Sets\ up\ a\ microwave\ timer\ based\ on\ str\r\n\ @param\ str\ the\ time\ to\ enter\r\n\ @return\ time\ formatted\ as\ a\ timer\r\n
+comment6.params=str
+comment6.target=java.lang.String\ reverseWords(java.lang.String)
+comment6.text=\r\n\ Reverses\ order\ of\ words\r\n\ @param\ str\ the\ sentence\ to\ test\r\n\ @return\ the\ words\ in\ str\ in\ reverse\ order\r\n
+comment7.params=str
+comment7.target=int\ sumString(java.lang.String)
+comment7.text=\r\n\ Returns\ sum\ of\ numbers\ in\ str\r\n\ @param\ str\ the\ sentence\ to\ test\r\n\ @return\ the\ sum\ of\ numbers\ in\ str\r\n
+numComments=8

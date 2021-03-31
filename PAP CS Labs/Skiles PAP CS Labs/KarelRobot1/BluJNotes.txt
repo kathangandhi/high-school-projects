@@ -1,0 +1,13 @@
+To load project
+
+1. Click Project -> Select Open Non BlueJ
+2. Select project folder
+
+The KarelJRobot.jar file will need to be added to BlueJ prior to running the project.
+
+1. Click on Tools -> Preferences
+2. Select the Libraries tab
+3. Click the Add button on the right.
+4. Select the KrelJRobot.jar file.
+
+Run main

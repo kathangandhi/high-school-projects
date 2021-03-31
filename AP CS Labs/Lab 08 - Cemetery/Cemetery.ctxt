@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=Cemetery(java.lang.String)
+comment0.text=\r\n\ Cemetery\ contructor\ to\ parse\ data\ from\ a\ text\ file,\ \r\n\ create\ a\ cemetery\ and\ print\ the\ average\ age\ of\ the\ deceased\r\n
+comment1.params=fileName
+comment1.target=void\ createCemetery(java.lang.String)
+comment1.text=\r\n\ Parses\ data\ from\ the\ textfile\ and\ initialise\ the\ collection\r\n\ @param\ fileName\ name\ of\ the\ textfile\r\n
+comment2.params=
+comment2.target=int\ getAge()
+comment2.text=\ \r\n\ Calculates\ the\ average\ age\ of\ the\ Cemetery\ population\ in\ the\ <code>list</code>\r\n\ @return\ the\ average\ age\ of\ the\ Cemetery\ population\r\n
+comment3.params=ageString
+comment3.target=int\ parseAge(java.lang.String)
+comment3.text=\r\n\ Helper\ method\ to\ parseAge\ from\ textfile\ by\ Mr.\ Bunn\r\n\ @param\ ageString\ weird\ numbers\ and\ letters\ to\ represent\ age\r\n
+numComments=4

@@ -1,0 +1,2 @@
+D:\Sprint5\Galaga\Galaga\GalagaContent\obj\x86\Debug\GalagaContent.contentprojResolveAssemblyReference.cache
+C:\Users\229932\Downloads\Galaga-20191213T172714Z-001\Galaga\Galaga\GalagaContent\obj\x86\Debug\GalagaContent.contentprojResolveAssemblyReference.cache

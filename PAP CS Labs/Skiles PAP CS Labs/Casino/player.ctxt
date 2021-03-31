@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n\ b
+comment0.target=player(java.lang.String,\ double)
+comment1.params=m
+comment1.target=void\ play(slotMachine)
+comment2.params=
+comment2.target=double\ getBank()
+numComments=3

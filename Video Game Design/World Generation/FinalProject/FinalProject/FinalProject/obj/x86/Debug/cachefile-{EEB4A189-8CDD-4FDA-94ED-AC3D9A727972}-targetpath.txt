@@ -1,0 +1,13 @@
+Content\SquareOutline.xnb
+Content\whiterectangle.xnb
+Content\BlackOutline.xnb
+Content\TestBackground.xnb
+Content\Carter pic.xnb
+Content\PixelSoldierReference.xnb
+Content\PixelSoldier.xnb
+Content\Bakerland.xnb
+Content\empire 1.xnb
+Content\empire 2.xnb
+Content\empire 3.xnb
+Content\empire 4.xnb
+Content\SpriteFont1.xnb

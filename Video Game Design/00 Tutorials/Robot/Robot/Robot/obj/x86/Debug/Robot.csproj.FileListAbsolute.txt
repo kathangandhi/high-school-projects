@@ -1,0 +1,14 @@
+C:\Users\pageg\Desktop\Robot\Robot\Robot\bin\x86\Debug\Content\robot.xnb
+C:\Users\pageg\Desktop\Robot\Robot\Robot\bin\x86\Debug\Robot.exe
+C:\Users\pageg\Desktop\Robot\Robot\Robot\bin\x86\Debug\Robot.pdb
+C:\Users\pageg\Desktop\Robot\Robot\Robot\obj\x86\Debug\Robot.csprojResolveAssemblyReference.cache
+C:\Users\pageg\Desktop\Robot\Robot\Robot\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\pageg\Desktop\Robot\Robot\Robot\obj\x86\Debug\Robot.exe
+C:\Users\pageg\Desktop\Robot\Robot\Robot\obj\x86\Debug\Robot.pdb
+C:\Users\229932\Desktop\Video Game Programming Labs\00 Tutorials\Robot\Robot\Robot\bin\x86\Debug\Content\robot.xnb
+C:\Users\229932\Desktop\Video Game Programming Labs\00 Tutorials\Robot\Robot\Robot\bin\x86\Debug\Robot.exe
+C:\Users\229932\Desktop\Video Game Programming Labs\00 Tutorials\Robot\Robot\Robot\bin\x86\Debug\Robot.pdb
+C:\Users\229932\Desktop\Video Game Programming Labs\00 Tutorials\Robot\Robot\Robot\obj\x86\Debug\Robot.csprojResolveAssemblyReference.cache
+C:\Users\229932\Desktop\Video Game Programming Labs\00 Tutorials\Robot\Robot\Robot\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\229932\Desktop\Video Game Programming Labs\00 Tutorials\Robot\Robot\Robot\obj\x86\Debug\Robot.exe
+C:\Users\229932\Desktop\Video Game Programming Labs\00 Tutorials\Robot\Robot\Robot\obj\x86\Debug\Robot.pdb

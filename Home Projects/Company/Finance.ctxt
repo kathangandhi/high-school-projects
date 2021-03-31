@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=company\ textFile
+comment0.target=Finance(Company,\ java.lang.String)
+comment1.params=newBudget
+comment1.target=void\ setBudget(int)
+comment2.params=
+comment2.target=double\ getBudget()
+comment3.params=textFile
+comment3.target=void\ setFinance(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

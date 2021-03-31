@@ -1,0 +1,18 @@
+C:\Users\229932\Desktop\Video Game Programming Labs\05 Sprint 7\5 pts\What Did You Say\What Did You Say\What_Did_You_Say\obj\x86\Debug\What_Did_You_Say.csprojResolveAssemblyReference.cache
+C:\Users\229932\Desktop\Video Game Programming Labs\05 Sprint 7\5 pts\What Did You Say\What Did You Say\What_Did_You_Say\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\229932\Desktop\Video Game Programming Labs\05 Sprint 7\5 pts\What Did You Say\What Did You Say\What_Did_You_Say\bin\x86\Debug\What_Did_You_Say.exe
+C:\Users\229932\Desktop\Video Game Programming Labs\05 Sprint 7\5 pts\What Did You Say\What Did You Say\What_Did_You_Say\bin\x86\Debug\What_Did_You_Say.pdb
+C:\Users\229932\Desktop\Video Game Programming Labs\05 Sprint 7\5 pts\What Did You Say\What Did You Say\What_Did_You_Say\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\229932\Desktop\Video Game Programming Labs\05 Sprint 7\5 pts\What Did You Say\What Did You Say\What_Did_You_Say\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\229932\Desktop\Video Game Programming Labs\05 Sprint 7\5 pts\What Did You Say\What Did You Say\What_Did_You_Say\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\229932\Desktop\Video Game Programming Labs\05 Sprint 7\5 pts\What Did You Say\What Did You Say\What_Did_You_Say\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\229932\Desktop\Video Game Programming Labs\05 Sprint 7\5 pts\What Did You Say\What Did You Say\What_Did_You_Say\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\229932\Desktop\Video Game Programming Labs\05 Sprint 7\5 pts\What Did You Say\What Did You Say\What_Did_You_Say\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\229932\Desktop\Video Game Programming Labs\05 Sprint 7\5 pts\What Did You Say\What Did You Say\What_Did_You_Say\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\229932\Desktop\Video Game Programming Labs\05 Sprint 7\5 pts\What Did You Say\What Did You Say\What_Did_You_Say\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\229932\Desktop\Video Game Programming Labs\05 Sprint 7\5 pts\What Did You Say\What Did You Say\What_Did_You_Say\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\229932\Desktop\Video Game Programming Labs\05 Sprint 7\5 pts\What Did You Say\What Did You Say\What_Did_You_Say\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\229932\Desktop\Video Game Programming Labs\05 Sprint 7\5 pts\What Did You Say\What Did You Say\What_Did_You_Say\obj\x86\Debug\What_Did_You_Say.exe
+C:\Users\229932\Desktop\Video Game Programming Labs\05 Sprint 7\5 pts\What Did You Say\What Did You Say\What_Did_You_Say\obj\x86\Debug\What_Did_You_Say.pdb
+C:\Users\229932\Desktop\Video Game Programming Labs\05 Sprint 7\5 pts\What Did You Say\What Did You Say\What_Did_You_Say\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\229932\Desktop\Video Game Programming Labs\05 Sprint 7\5 pts\What Did You Say\What Did You Say\What_Did_You_Say\bin\x86\Debug\Content\Data File.txt

@@ -1,0 +1,17 @@
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\5 pts\Just A Minute\Just A Minute\Just_A_Minute\bin\x86\Debug\Content\clockHand.xnb
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\5 pts\Just A Minute\Just A Minute\Just_A_Minute\bin\x86\Debug\Just_A_Minute.exe
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\5 pts\Just A Minute\Just A Minute\Just_A_Minute\bin\x86\Debug\Just_A_Minute.pdb
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\5 pts\Just A Minute\Just A Minute\Just_A_Minute\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\5 pts\Just A Minute\Just A Minute\Just_A_Minute\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\5 pts\Just A Minute\Just A Minute\Just_A_Minute\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\5 pts\Just A Minute\Just A Minute\Just_A_Minute\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\5 pts\Just A Minute\Just A Minute\Just_A_Minute\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\5 pts\Just A Minute\Just A Minute\Just_A_Minute\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\5 pts\Just A Minute\Just A Minute\Just_A_Minute\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\5 pts\Just A Minute\Just A Minute\Just_A_Minute\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\5 pts\Just A Minute\Just A Minute\Just_A_Minute\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\5 pts\Just A Minute\Just A Minute\Just_A_Minute\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\5 pts\Just A Minute\Just A Minute\Just_A_Minute\obj\x86\Debug\Just_A_Minute.csprojResolveAssemblyReference.cache
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\5 pts\Just A Minute\Just A Minute\Just_A_Minute\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\5 pts\Just A Minute\Just A Minute\Just_A_Minute\obj\x86\Debug\Just_A_Minute.exe
+C:\Users\229932\Desktop\Video Game Programming Labs\03 Sprint 4\5 pts\Just A Minute\Just A Minute\Just_A_Minute\obj\x86\Debug\Just_A_Minute.pdb

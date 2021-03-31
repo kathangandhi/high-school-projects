@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=horse()
+comment1.params=name\ spd
+comment1.target=horse(java.lang.String,\ int)
+comment2.params=x\ y
+comment2.target=void\ setPosition(int,\ int)
+comment3.params=g
+comment3.target=void\ showHorse(java.awt.Graphics)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=int\ getPosition()
+comment6.params=
+comment6.target=int\ getLane()
+comment7.params=
+comment7.target=int\ runHorse()
+comment8.params=g
+comment8.target=void\ hideHorse(java.awt.Graphics)
+comment9.params=g
+comment9.target=void\ run(java.awt.Graphics)
+numComments=10

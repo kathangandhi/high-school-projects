@@ -1,0 +1,27 @@
+c:\users\pgandhi\documents\visual studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\pgandhi\documents\visual studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\bin\x86\Debug\Castle_Mania.exe
+c:\users\pgandhi\documents\visual studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\bin\x86\Debug\Castle_Mania.pdb
+c:\users\pgandhi\documents\visual studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\pgandhi\documents\visual studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\pgandhi\documents\visual studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\pgandhi\documents\visual studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\pgandhi\documents\visual studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\pgandhi\documents\visual studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\pgandhi\documents\visual studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\pgandhi\documents\visual studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\pgandhi\documents\visual studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\pgandhi\documents\visual studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\pgandhi\documents\visual studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\obj\x86\Debug\Castle_Mania.exe
+c:\users\pgandhi\documents\visual studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\obj\x86\Debug\Castle_Mania.pdb
+c:\users\pgandhi\documents\visual studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\bin\x86\Debug\Content\boy.xnb
+c:\users\pgandhi\documents\visual studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\bin\x86\Debug\Content\clown.xnb
+c:\users\pgandhi\documents\visual studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\bin\x86\Debug\Content\girl.xnb
+c:\users\pgandhi\documents\visual studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\bin\x86\Debug\Content\herald.xnb
+c:\users\pgandhi\documents\visual studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\bin\x86\Debug\Content\knight.xnb
+c:\users\pgandhi\documents\visual studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\bin\x86\Debug\Content\zombie.xnb
+c:\users\pgandhi\documents\visual studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\bin\x86\Debug\Content\scene.xnb
+c:\users\pgandhi\documents\visual studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\bin\x86\Debug\Content\SpriteFont1.xnb
+c:\users\pgandhi\documents\visual studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\bin\x86\Debug\Content\ball.xnb
+c:\users\pgandhi\documents\visual studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\bin\x86\Debug\Content\boy throw.xnb
+C:\Users\pgandhi\Documents\Visual Studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\obj\x86\Debug\Castle_Mania.csprojResolveAssemblyReference.cache
+C:\Users\pgandhi\Documents\Visual Studio 2015\Projects\Castle Mania\Castle Mania\Castle_Mania\bin\x86\Debug\Content\knight fighting.xnb

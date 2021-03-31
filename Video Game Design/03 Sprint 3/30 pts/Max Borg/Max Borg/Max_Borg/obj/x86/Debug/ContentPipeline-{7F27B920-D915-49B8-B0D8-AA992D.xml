@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pgandhi\Documents\Visual Studio 2015\Projects\Max Borg\Max Borg\Max_Borg\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2019-10-24T00:12:40.7933276-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ball.png</Source>
+      <Name>ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pgandhi\Documents\Visual Studio 2015\Projects\Max Borg\Max Borg\Max_Borg\bin\x86\Debug\Content\ball.xnb</Output>
+      <Time>2019-10-24T00:12:40.6523727-05:00</Time>
+    </Item>
+    <Item>
+      <Source>PixelImage.png</Source>
+      <Name>PixelImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pgandhi\Documents\Visual Studio 2015\Projects\Max Borg\Max Borg\Max_Borg\bin\x86\Debug\Content\PixelImage.xnb</Output>
+      <Time>2019-10-24T00:12:40.7802597-05:00</Time>
+    </Item>
+    <Item>
+      <Source>rocket.png</Source>
+      <Name>rocket</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pgandhi\Documents\Visual Studio 2015\Projects\Max Borg\Max Borg\Max_Borg\bin\x86\Debug\Content\rocket.xnb</Output>
+      <Time>2019-10-24T00:12:40.73867-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tube horizontal.png</Source>
+      <Name>tube horizontal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pgandhi\Documents\Visual Studio 2015\Projects\Max Borg\Max Borg\Max_Borg\bin\x86\Debug\Content\tube horizontal.xnb</Output>
+      <Time>2019-10-24T00:12:40.7177283-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tube vertical.png</Source>
+      <Name>tube vertical</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pgandhi\Documents\Visual Studio 2015\Projects\Max Borg\Max Borg\Max_Borg\bin\x86\Debug\Content\tube vertical.xnb</Output>
+      <Time>2019-10-24T00:12:40.6958161-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tube.png</Source>
+      <Name>tube</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pgandhi\Documents\Visual Studio 2015\Projects\Max Borg\Max Borg\Max_Borg\bin\x86\Debug\Content\tube.xnb</Output>
+      <Time>2019-10-24T00:12:40.6733087-05:00</Time>
+    </Item>
+    <Item>
+      <Source>white.png</Source>
+      <Name>white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pgandhi\Documents\Visual Studio 2015\Projects\Max Borg\Max Borg\Max_Borg\bin\x86\Debug\Content\white.xnb</Output>
+      <Time>2019-10-24T00:12:40.7576193-05:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pgandhi\Documents\Visual Studio 2015\Projects\Max Borg\Max Borg\Max_Borg\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2019-10-24T00:12:36.3678466-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tng_phaser3_clean.wav</Source>
+      <Name>tng_phaser3_clean</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pgandhi\Documents\Visual Studio 2015\Projects\Max Borg\Max Borg\Max_Borg\bin\x86\Debug\Content\tng_phaser3_clean.xnb</Output>
+      <Time>2019-10-24T00:33:51.3404818-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tos_photon_torpedo.wav</Source>
+      <Name>tos_photon_torpedo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pgandhi\Documents\Visual Studio 2015\Projects\Max Borg\Max Borg\Max_Borg\bin\x86\Debug\Content\tos_photon_torpedo.xnb</Output>
+      <Time>2019-10-24T00:33:51.3594313-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tng_torpedo_clean.wav</Source>
+      <Name>tng_torpedo_clean</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\pgandhi\Documents\Visual Studio 2015\Projects\Max Borg\Max Borg\Max_Borg\bin\x86\Debug\Content\tng_torpedo_clean.xnb</Output>
+      <Time>2019-10-24T00:35:09.0249484-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{7F27B920-D915-49B8-B0D8-AA992D1E0E95}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\pgandhi\Documents\Visual Studio 2015\Projects\Max Borg\Max Borg\Max_BorgContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\pgandhi\Documents\Visual Studio 2015\Projects\Max Borg\Max Borg\Max_Borg\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\pgandhi\Documents\Visual Studio 2015\Projects\Max Borg\Max Borg\Max_Borg\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\pgandhi\Documents\Visual Studio 2015\Projects\Max Borg\Max Borg\Max_Borg\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-09-28T15:55:13.7249709-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>baby.png</Source>
+      <Name>baby</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 2\5 pts\Avatar\Avatar\Avatar\bin\x86\Debug\Content\baby.xnb</Output>
+      <Time>2019-10-07T11:22:26.7163011-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bearded man.png</Source>
+      <Name>bearded man</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 2\5 pts\Avatar\Avatar\Avatar\bin\x86\Debug\Content\bearded man.xnb</Output>
+      <Time>2019-10-07T11:22:26.7163011-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bishop.png</Source>
+      <Name>bishop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 2\5 pts\Avatar\Avatar\Avatar\bin\x86\Debug\Content\bishop.xnb</Output>
+      <Time>2019-10-07T11:22:26.7319245-05:00</Time>
+    </Item>
+    <Item>
+      <Source>clown.png</Source>
+      <Name>clown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 2\5 pts\Avatar\Avatar\Avatar\bin\x86\Debug\Content\clown.xnb</Output>
+      <Time>2019-10-07T11:22:26.7319245-05:00</Time>
+    </Item>
+    <Item>
+      <Source>cop.png</Source>
+      <Name>cop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 2\5 pts\Avatar\Avatar\Avatar\bin\x86\Debug\Content\cop.xnb</Output>
+      <Time>2019-10-07T11:22:26.7319245-05:00</Time>
+    </Item>
+    <Item>
+      <Source>elf.png</Source>
+      <Name>elf</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 2\5 pts\Avatar\Avatar\Avatar\bin\x86\Debug\Content\elf.xnb</Output>
+      <Time>2019-10-07T11:22:26.7319245-05:00</Time>
+    </Item>
+    <Item>
+      <Source>girl.png</Source>
+      <Name>girl</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 2\5 pts\Avatar\Avatar\Avatar\bin\x86\Debug\Content\girl.xnb</Output>
+      <Time>2019-10-07T11:22:26.747543-05:00</Time>
+    </Item>
+    <Item>
+      <Source>glasses.png</Source>
+      <Name>glasses</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 2\5 pts\Avatar\Avatar\Avatar\bin\x86\Debug\Content\glasses.xnb</Output>
+      <Time>2019-10-07T11:22:26.747543-05:00</Time>
+    </Item>
+    <Item>
+      <Source>nurse.png</Source>
+      <Name>nurse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 2\5 pts\Avatar\Avatar\Avatar\bin\x86\Debug\Content\nurse.xnb</Output>
+      <Time>2019-10-07T11:22:26.747543-05:00</Time>
+    </Item>
+    <Item>
+      <Source>snow boy.png</Source>
+      <Name>snow boy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 2\5 pts\Avatar\Avatar\Avatar\bin\x86\Debug\Content\snow boy.xnb</Output>
+      <Time>2019-10-07T11:22:26.747543-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tennis guy.png</Source>
+      <Name>tennis guy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 2\5 pts\Avatar\Avatar\Avatar\bin\x86\Debug\Content\tennis guy.xnb</Output>
+      <Time>2019-10-07T11:22:26.7631641-05:00</Time>
+    </Item>
+    <Item>
+      <Source>woman.png</Source>
+      <Name>woman</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 2\5 pts\Avatar\Avatar\Avatar\bin\x86\Debug\Content\woman.xnb</Output>
+      <Time>2019-10-07T11:22:26.7631641-05:00</Time>
+    </Item>
+    <Item>
+      <Source>white.png</Source>
+      <Name>white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 2\5 pts\Avatar\Avatar\Avatar\bin\x86\Debug\Content\white.xnb</Output>
+      <Time>2019-10-07T11:39:31.2042805-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{52BCA5B8-B1CD-4DD0-A8EC-893E9BE41AE6}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 2\5 pts\Avatar\Avatar\AvatarContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 2\5 pts\Avatar\Avatar\Avatar\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 2\5 pts\Avatar\Avatar\Avatar\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\229932\Desktop\Video Game Programming Labs\02 Sprint 2\5 pts\Avatar\Avatar\Avatar\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-04-04T09:45:30.5725129-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

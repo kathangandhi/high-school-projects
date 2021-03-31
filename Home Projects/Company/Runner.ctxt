@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\n\ Old\ fashioned\ runner\ main\ method.\ <br>\n\ If\ file\ directory/name\ is\ not\ right,\ then\ it\ will\ print\ an\ error\ message\n\ "File\ not\ found..."\n
+numComments=1

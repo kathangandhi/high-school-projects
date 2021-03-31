@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Console
+comment0.text=\r\n\ Main\ class\ that\ starts\ the\ game\r\n\r\n\ @author\ Kathan\ Gandhi\r\n\ @version\ 08/19/2019\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=p\ m\ time
+comment2.target=void\ updateConsole(Person,\ Menu,\ int)
+numComments=3

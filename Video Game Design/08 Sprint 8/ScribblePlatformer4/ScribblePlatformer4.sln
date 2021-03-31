@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScribblePlatformer4", "ScribblePlatformer4\ScribblePlatformer4\ScribblePlatformer4.csproj", "{CBE39C3E-BE82-4796-930A-E92DFBBEC985}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ScribblePlatformer4Content", "ScribblePlatformer4\ScribblePlatformer4Content\ScribblePlatformer4Content.contentproj", "{A5D4A6FB-D3F2-424D-9A9A-BAA804604F6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBE39C3E-BE82-4796-930A-E92DFBBEC985}.Debug|x86.ActiveCfg = Debug|x86
+		{CBE39C3E-BE82-4796-930A-E92DFBBEC985}.Debug|x86.Build.0 = Debug|x86
+		{CBE39C3E-BE82-4796-930A-E92DFBBEC985}.Release|x86.ActiveCfg = Release|x86
+		{CBE39C3E-BE82-4796-930A-E92DFBBEC985}.Release|x86.Build.0 = Release|x86
+		{A5D4A6FB-D3F2-424D-9A9A-BAA804604F6E}.Debug|x86.ActiveCfg = Debug|x86
+		{A5D4A6FB-D3F2-424D-9A9A-BAA804604F6E}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

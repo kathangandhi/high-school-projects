@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cards", "Cards\Cards\Cards.csproj", "{D40A5E82-245A-43AC-84B1-4E8C8BBE6800}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "CardsContent", "Cards\CardsContent\CardsContent.contentproj", "{FBE0FE34-ED5C-4B43-92B4-9DBB29889B6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D40A5E82-245A-43AC-84B1-4E8C8BBE6800}.Debug|x86.ActiveCfg = Debug|x86
+		{D40A5E82-245A-43AC-84B1-4E8C8BBE6800}.Debug|x86.Build.0 = Debug|x86
+		{D40A5E82-245A-43AC-84B1-4E8C8BBE6800}.Release|x86.ActiveCfg = Release|x86
+		{D40A5E82-245A-43AC-84B1-4E8C8BBE6800}.Release|x86.Build.0 = Release|x86
+		{FBE0FE34-ED5C-4B43-92B4-9DBB29889B6F}.Debug|x86.ActiveCfg = Debug|x86
+		{FBE0FE34-ED5C-4B43-92B4-9DBB29889B6F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

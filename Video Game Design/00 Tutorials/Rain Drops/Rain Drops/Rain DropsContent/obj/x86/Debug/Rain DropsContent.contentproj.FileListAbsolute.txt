@@ -1,0 +1,3 @@
+C:\Users\pageg\Desktop\Rain Drops\Rain Drops\Rain DropsContent\obj\x86\Debug\Rain DropsContent.contentprojResolveAssemblyReference.cache
+E:\_Games\___ PROGRAMMING TEXT\10 - Mouse Control\Rain Drops\Rain Drops\Rain DropsContent\obj\x86\Debug\Rain DropsContent.contentprojResolveAssemblyReference.cache
+C:\Users\229932\Desktop\Video Game Programming Labs\00 Tutorials\Rain Drops\Rain Drops\Rain Drops\Rain DropsContent\obj\x86\Debug\Rain DropsContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\Kupo7\Desktop\XNA Projects\FinalProject\FinalProject\FinalProjectContent\obj\x86\Debug\FinalProjectContent.contentprojResolveAssemblyReference.cache
+C:\Users\katha\Downloads\FuckCarter2\FinalProject\FinalProject\FinalProjectContent\obj\x86\Debug\FinalProjectContent.contentprojResolveAssemblyReference.cache
+C:\Users\katha\Desktop\Video Game Design\FuckCarter2\FinalProject\FinalProject\FinalProjectContent\obj\x86\Debug\FinalProjectContent.contentprojResolveAssemblyReference.cache
+C:\Users\katha\Desktop\Video Game Design\World Generation\FinalProject\FinalProject\FinalProjectContent\obj\x86\Debug\FinalProjectContent.contentprojResolveAssemblyReference.cache

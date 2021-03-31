@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=type\ year\ cost\ passengers\ hasFirstClass
+comment0.target=Airplane(java.lang.String,\ int,\ double,\ int,\ boolean)
+comment1.params=
+comment1.target=double\ getPrice()
+comment2.params=
+comment2.target=java.lang.String\ getInfo()
+numComments=3

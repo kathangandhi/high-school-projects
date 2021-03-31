@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=Maze(java.lang.String)
+comment0.text=Make\ sure\ to\ look\ at\ the\ format\ of\ the\ mazes\ in\ the\ maze\ text\ files
+comment1.params=
+comment1.target=void\ solve()
+comment1.text=\r\n\ Helper\ method,\ makes\ the\ interface\ a\ little\ cleaner\r\n\ \r\n\ The\ user\ doesn't\ have\ to\ know\ the\ solver\ should\ start\ at\ 0,\ 0\r\n\ \r\n\ Also\ responsible\ for\ printing\ the\ final\ state\ of\ the\ maze\r\n
+comment2.params=r\ c\ numSteps
+comment2.target=void\ hasExitPath(int,\ int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

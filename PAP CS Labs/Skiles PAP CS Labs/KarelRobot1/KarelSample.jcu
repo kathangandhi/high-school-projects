@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>KarelSample</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>KarelSample</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>KarelSample.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>KarelSample.java.sdk</path>
+			<symbols>
+				<symbol>KarelSample</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>
